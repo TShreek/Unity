@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{420B3A06-FE1C-17F0-33F1-07BD133BD0A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooting.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="30" Column="44" />
+      <File FileName="Assets/Scripts/Shooting.cs" Line="13" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Starks ark 2" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ec9df90f-fbb2-4d98-b770-ad616f05e67e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0152557B-685B-375F-1143-8B0CC30AA2D7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/McQueen.cs">
+    <Files>
+      <File FileName="Assets/McQueen.cs" Line="29" Column="6" />
+      <File FileName="Assets/Camera.cs" Line="17" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delivar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="McQueen.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1568a1da-def5-483c-ba75-ae4eea59c68c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

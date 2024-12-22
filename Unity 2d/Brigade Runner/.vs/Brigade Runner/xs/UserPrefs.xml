@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1B332CEA-C334-EF9C-5F4D-AE4AF8C28E28}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameSession.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovementScript.cs" Line="197" Column="66" />
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/BullletMovement.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/EnemyBullet.cs" />
+      <File FileName="Assets/Scripts/LevelExit.cs" />
+      <File FileName="Assets/Scripts/GameSession.cs" Line="52" Column="10" />
+      <File FileName="Assets/Scripts/coinBheaviour.cs" />
+      <File FileName="Assets/Scripts/ScenePersists.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Brigade Runner" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd59f17e-8c3c-42e8-9582-00b08687bc1b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

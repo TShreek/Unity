@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cdc2f46b10b6419582478dd068b3a0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - qtext: {instanceID: 0}
+  - qscript: {fileID: 11400000, guid: 0cf4fc030ec584fb98585aee1f59ba8d, type: 2}
+  - correctSprite: {fileID: 21300000, guid: 1fe67e146c5e14e0d837c8321fe4617e, type: 3}
+  - defaultSprite: {fileID: 21300000, guid: b98bed9964fe1425bb25c05d5498fcb6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

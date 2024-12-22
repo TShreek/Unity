@@ -1,4 +1,0 @@
-repository "Skews ark@TShr33K@cloud"
-  path "/"
-    br "/main"
-    co "/main"

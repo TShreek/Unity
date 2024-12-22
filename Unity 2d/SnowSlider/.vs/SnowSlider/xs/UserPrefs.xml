@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC8A5446-5CA4-7A60-27CC-1A223691C1D0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FinishLine.cs" Line="34" Column="36" />
+      <File FileName="Assets/Scripts/CrashDetecter.cs" Line="54" Column="35" />
+      <File FileName="Assets/Scripts/Player.cs" Line="95" Column="1" />
+      <File FileName="Assets/Scripts/PlayerEffect.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="32" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SnowSlider" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7972083c-d2e5-411e-9310-b274cf360934" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

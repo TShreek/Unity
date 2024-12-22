@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{47DF9646-E28C-CF5B-6C0D-CE75E67E60A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Spinner.cs">
+    <Files>
+      <File FileName="Assets/scripts/Player.cs" Line="26" Column="32" />
+      <File FileName="Assets/scripts/Walls.cs" />
+      <File FileName="Assets/scripts/Drop.cs" Line="7" Column="22" />
+      <File FileName="Assets/scripts/Spinner.cs" Line="7" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Obstacle Course" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Spinner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da1465b7-a150-40b2-8ae5-8c4205ad07dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
