@@ -13,7 +13,7 @@ public class EnemyMovement : MonoBehaviour
     {
         enemyBody = GetComponent<Rigidbody2D>();
         // Schedule fire to be called every 5 seconds
-        InvokeRepeating("fire", 5f, 3f);
+        InvokeRepeating("fire", 3f, 2f);
     }
 
     void Update()
