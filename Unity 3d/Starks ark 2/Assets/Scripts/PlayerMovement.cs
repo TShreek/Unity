@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float range = 2f;
     Vector2 movement;
     Vector3 startPosition;
-
+    [SerializeField] ParticleSystem deathParticles;
     [SerializeField] float rotSpeed = 20f;
     [SerializeField] float pitchLmit = 20f;
     [SerializeField] float delay = 5f;
@@ -52,5 +52,25 @@ public class PlayerMovement : MonoBehaviour
     public void OnMove(InputValue value)
     {
         movement = value.Get<Vector2>();
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (deathParticles != null)
+        {
+            Debug.Log("Blast effect called");
+
+            // Instantiate the particle system
+            ParticleSystem instantiatedEffect = Instantiate(deathParticles, transform.position + new Vector3(0, 0, -1f), Quaternion.identity);
+
+            // Explicitly play the particle system
+            instantiatedEffect.Play();
+
+            // Optional: Destroy the particle system after it has finished playing
+            Destroy(instantiatedEffect.gameObject, instantiatedEffect.main.duration);
+        }
+
+        // Destroy the player GameObject
+        Destroy(this.gameObject);
     }
 }
