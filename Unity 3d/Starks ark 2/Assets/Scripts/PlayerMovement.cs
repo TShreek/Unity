@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float range = 2f;
     Vector2 movement;
     Vector3 startPosition;
+    [SerializeField] int health = 10;
     [SerializeField] ParticleSystem deathParticles;
     [SerializeField] float rotSpeed = 20f;
     [SerializeField] float pitchLmit = 20f;
@@ -55,6 +56,16 @@ public class PlayerMovement : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other)
+    {
+        health -= 1;
+        Debug.Log("Player health : " + health);
+        if (health <= 0)
+        {
+            DestroyPlayer();
+        }
+    }
+
+    void DestroyPlayer()
     {
         if (deathParticles != null)
         {

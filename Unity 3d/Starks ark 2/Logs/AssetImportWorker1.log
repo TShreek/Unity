@@ -407,3 +407,765 @@ Memory consumption went from 229.9 MB to 207.1 MB.
 Total: 12.838333 ms (FindLiveObjects: 0.759333 ms CreateObjectMapping: 0.478125 ms MarkObjects: 5.813208 ms  DeleteObjects: 5.787292 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 4508.112460 seconds.
+  path: Assets/prefabs/ships/Enemy Variant (2) Variant.prefab
+  artifactKey: Guid(516540e69e6504358b52651edbea0e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy Variant (2) Variant.prefab using Guid(516540e69e6504358b52651edbea0e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3adce8169d5aa9c37147ba201b1e6793') in 0.239913917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.474647 seconds.
+  path: Assets/prefabs/ships/Enemy Variant (4).prefab
+  artifactKey: Guid(a922c3538128246d6835302b14ef9c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy Variant (4).prefab using Guid(a922c3538128246d6835302b14ef9c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b9243870c2dac8259ea67d338fd2321') in 1.395211042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 350
+
+========================================================================
+Received Import Request.
+  Time since last request: 2499.663612 seconds.
+  path: Assets/prefabs/ships/Enemy Variant Variant.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy Variant Variant.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c842ff13592bfb7c2ddd6cda953fc656') in 0.138810916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.807182 seconds.
+  path: Assets/prefabs/ships/Enemy Variant Variant.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy Variant Variant.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28116f6d79d913a3fe78b90bf2213b76') in 0.135838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 726.607787 seconds.
+  path: Assets/prefabs/ships/Enemy Variant Variant.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy Variant Variant.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3653bb47430062c6998c563e428b1685') in 0.124309584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 554.192152 seconds.
+  path: Assets/prefabs/ships/PlayerShip.prefab
+  artifactKey: Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/PlayerShip.prefab using Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43980e0c42437b3352cffa742f189ef6') in 0.234154042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.751252 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf2c1016cb3576669710ebc4aed18db9') in 0.112012833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.014087 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35e55c95485dd06440841a867a01b661') in 0.062405875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.638762 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75b6825fd1f54bb4a2f960d1b878d43f') in 0.043636875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.599214 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5926b6a1558361ba9ae31b64ae0e02e8') in 0.09443925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.123295 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36a816d35b9bdd3b48afb4da5312c85c') in 0.095787375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.054538 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84c9c18668be3a56b1dd05fbe63d2638') in 0.036350583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.799072 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '668977f09eff100ef804bd7cc0d0014c') in 0.041291958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.574399 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '30586f56a9e7ebd2b19ae3545521a98f') in 0.026911083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.803192 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70fd1c36d326f294a7ca0088478830eb') in 0.030777292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.925590 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '962bfca9396fadd017a24913e8c7087e') in 0.094453292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.761144 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18709d67cb55d820b8b368c6817a2318') in 0.020927209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.477631 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0f190a0c7a74d2fc4eea2b639340b66') in 0.081529125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.256304 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '093dc0ce605f989c54f2cf19b526b6d1') in 0.0736065 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.217663 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e56924d2e3c71c86b6f017f0aa3dc644') in 0.067807291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 77
+
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7774 unused Assets / (14.7 MB). Loaded Objects now: 8705.
+Memory consumption went from 230.0 MB to 215.3 MB.
+Total: 129.313084 ms (FindLiveObjects: 8.339667 ms CreateObjectMapping: 0.698000 ms MarkObjects: 85.074083 ms  DeleteObjects: 35.199500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 238.995518 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24a6700d1264f47fbb17a86d3dbc66d7') in 0.10426175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 77
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48aa449789b46422ec1e668784c45ff4') in 0.043134292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  2.449 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.068 seconds
+Domain Reload Profiling: 3529ms
+	BeginReloadAssembly (877ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (86ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (449ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (1468ms)
+		LoadAssemblies (984ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (696ms)
+			TypeCache.Refresh (172ms)
+				TypeCache.ScanAssembly (7ms)
+			BuildScriptInfoCaches (492ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1069ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (777ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (611ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7779 unused Assets / (14.6 MB). Loaded Objects now: 8587.
+Memory consumption went from 235.7 MB to 221.1 MB.
+Total: 38.887792 ms (FindLiveObjects: 2.415250 ms CreateObjectMapping: 1.311375 ms MarkObjects: 24.325250 ms  DeleteObjects: 10.834834 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7771 unused Assets / (16.0 MB). Loaded Objects now: 8587.
+Memory consumption went from 224.9 MB to 208.9 MB.
+Total: 73.775875 ms (FindLiveObjects: 7.875375 ms CreateObjectMapping: 0.895041 ms MarkObjects: 42.649667 ms  DeleteObjects: 22.353875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 40.289861 seconds.
+  path: Assets/prefabs/ships/Enemy.prefab
+  artifactKey: Guid(d9156fc6d58de48669d64ef8d2e866f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy.prefab using Guid(d9156fc6d58de48669d64ef8d2e866f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ecc9e22deddeaa0840a66f400c6930b0') in 0.842665792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 360
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2e59bdcee528659153f42dbdef3c8de') in 0.039448084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.431 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.977 seconds
+Domain Reload Profiling: 2417ms
+	BeginReloadAssembly (559ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (47ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (345ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (787ms)
+		LoadAssemblies (421ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (460ms)
+			TypeCache.Refresh (29ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (402ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (978ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (690ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (556ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7780 unused Assets / (22.7 MB). Loaded Objects now: 8610.
+Memory consumption went from 244.4 MB to 221.6 MB.
+Total: 12.320167 ms (FindLiveObjects: 1.079875 ms CreateObjectMapping: 0.335792 ms MarkObjects: 5.594250 ms  DeleteObjects: 5.309208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.775056 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8010c42875b4f716a7e6745d5f2ebb2b') in 0.525964958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 407
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42621cb321ec523dac5d38f55c9d676d') in 0.010269209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7773 unused Assets / (17.0 MB). Loaded Objects now: 8751.
+Memory consumption went from 238.1 MB to 221.1 MB.
+Total: 77.746083 ms (FindLiveObjects: 13.553917 ms CreateObjectMapping: 1.238125 ms MarkObjects: 46.513667 ms  DeleteObjects: 16.439083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 31.530241 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c72bc11850484aea12096565b96e948') in 0.059691167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 77
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0944bf0b3a191f2f87308849aceb97c') in 0.012235375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.664 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.050 seconds
+Domain Reload Profiling: 2727ms
+	BeginReloadAssembly (589ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (57ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (377ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (985ms)
+		LoadAssemblies (462ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (591ms)
+			TypeCache.Refresh (39ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (504ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1050ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (706ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (93ms)
+			ProcessInitializeOnLoadAttributes (548ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7779 unused Assets / (23.9 MB). Loaded Objects now: 8633.
+Memory consumption went from 243.5 MB to 219.6 MB.
+Total: 10.630333 ms (FindLiveObjects: 0.586417 ms CreateObjectMapping: 0.307667 ms MarkObjects: 4.595375 ms  DeleteObjects: 5.140708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7771 unused Assets / (20.3 MB). Loaded Objects now: 8633.
+Memory consumption went from 233.3 MB to 213.0 MB.
+Total: 50.055166 ms (FindLiveObjects: 1.075084 ms CreateObjectMapping: 0.819541 ms MarkObjects: 41.978167 ms  DeleteObjects: 6.181417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 54.810305 seconds.
+  path: Assets/prefabs/ships/PlayerShip.prefab
+  artifactKey: Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/PlayerShip.prefab using Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33a5dac5c8efbce2ccbf9cad00c30ff3') in 0.985337291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 379
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.169 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.393 seconds
+Domain Reload Profiling: 2569ms
+	BeginReloadAssembly (456ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (66ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (202ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (633ms)
+		LoadAssemblies (385ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (340ms)
+			TypeCache.Refresh (36ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (287ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1395ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (877ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (681ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7781 unused Assets / (20.6 MB). Loaded Objects now: 8656.
+Memory consumption went from 252.2 MB to 231.6 MB.
+Total: 81.735625 ms (FindLiveObjects: 15.931542 ms CreateObjectMapping: 2.440166 ms MarkObjects: 40.346792 ms  DeleteObjects: 23.015959 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.912932 seconds.
+  path: Assets/prefabs/ships/PlayerShip.prefab
+  artifactKey: Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/PlayerShip.prefab using Guid(ec59b197a135144b2a67db85df7e7d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78fc788dfe034ffaf3c98497786375f1') in 0.780434667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 379
+
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7774 unused Assets / (18.3 MB). Loaded Objects now: 8797.
+Memory consumption went from 246.6 MB to 228.3 MB.
+Total: 72.252625 ms (FindLiveObjects: 8.441541 ms CreateObjectMapping: 2.257167 ms MarkObjects: 52.049916 ms  DeleteObjects: 9.503000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.362937 seconds.
+  path: Assets/prefabs/ships/Player rig.prefab
+  artifactKey: Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Player rig.prefab using Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ccb53a66427afea57e22ae0897b3a39') in 0.072906875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 72
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.703 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.397 seconds
+Domain Reload Profiling: 3108ms
+	BeginReloadAssembly (750ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (45ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (560ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (837ms)
+		LoadAssemblies (381ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (531ms)
+			TypeCache.Refresh (67ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (429ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (1397ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (932ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (126ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (609ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7780 unused Assets / (22.5 MB). Loaded Objects now: 8680.
+Memory consumption went from 251.4 MB to 228.9 MB.
+Total: 32.541958 ms (FindLiveObjects: 0.694500 ms CreateObjectMapping: 0.456291 ms MarkObjects: 25.054292 ms  DeleteObjects: 6.336250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7771 unused Assets / (23.0 MB). Loaded Objects now: 8680.
+Memory consumption went from 241.7 MB to 218.7 MB.
+Total: 40.059958 ms (FindLiveObjects: 2.362250 ms CreateObjectMapping: 0.406584 ms MarkObjects: 28.163666 ms  DeleteObjects: 9.124708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 26.271582 seconds.
+  path: Assets/prefabs/ships/Player rig.prefab
+  artifactKey: Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Player rig.prefab using Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '266e4fec4df096ee7e6eb3c4fcdf7442') in 0.727244292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 402
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be8f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.354 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.424 seconds
+Domain Reload Profiling: 2789ms
+	BeginReloadAssembly (517ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (94ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (211ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (741ms)
+		LoadAssemblies (449ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (382ms)
+			TypeCache.Refresh (50ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (304ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1426ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (920ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (757ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7781 unused Assets / (26.5 MB). Loaded Objects now: 8703.
+Memory consumption went from 260.0 MB to 233.5 MB.
+Total: 88.482208 ms (FindLiveObjects: 8.456958 ms CreateObjectMapping: 2.408750 ms MarkObjects: 49.255125 ms  DeleteObjects: 28.355709 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7772 unused Assets / (14.6 MB). Loaded Objects now: 8704.
+Memory consumption went from 246.0 MB to 231.4 MB.
+Total: 86.441792 ms (FindLiveObjects: 11.433833 ms CreateObjectMapping: 1.528042 ms MarkObjects: 46.820333 ms  DeleteObjects: 26.658792 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7771 unused Assets / (20.4 MB). Loaded Objects now: 8703.
+Memory consumption went from 246.0 MB to 225.6 MB.
+Total: 39.742208 ms (FindLiveObjects: 1.583458 ms CreateObjectMapping: 0.303334 ms MarkObjects: 29.137541 ms  DeleteObjects: 8.713334 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16bc5f000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.157 seconds
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.UIElement.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Configuration.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.high-definition/Editor/Wizard/HDWizard.Window.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.44 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.655 seconds
+Domain Reload Profiling: 2822ms
+	BeginReloadAssembly (300ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (142ms)
+	RebuildCommonClasses (69ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (751ms)
+		LoadAssemblies (424ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (394ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (338ms)
+			ResolveRequiredComponents (24ms)
+	FinalizeReload (1655ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1074ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (850ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 192 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7778 unused Assets / (22.2 MB). Loaded Objects now: 8705.
+Memory consumption went from 254.6 MB to 232.4 MB.
+Total: 26.732083 ms (FindLiveObjects: 2.058625 ms CreateObjectMapping: 0.576042 ms MarkObjects: 16.473042 ms  DeleteObjects: 7.623292 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 521.826177 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '012cec74d9b7857d058b4d314ffa44d5') in 1.011516042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 407
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.925390 seconds.
+  path: Assets/prefabs/ships/Enemy 2.prefab
+  artifactKey: Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Enemy 2.prefab using Guid(841c0145cc2de4bcd8d2e10f42e5b010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41de474441beaf9ac11d148e874000ee') in 0.064991916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 58
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/prefabs/ships/enemy 23.prefab
+  artifactKey: Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/enemy 23.prefab using Guid(496037f2c4421440fbbb2d0d26881832) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0375b6ff3059a2580903cbddf446d45f') in 0.013711291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 81
+

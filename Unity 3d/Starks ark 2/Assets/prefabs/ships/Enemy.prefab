@@ -42,6 +42,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8106310072899460786}
   - component: {fileID: 4696201244798207567}
+  - component: {fileID: -1228868874456383111}
+  - component: {fileID: 3829222592833214448}
+  - component: {fileID: 5294677006509328326}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -75,7 +78,7 @@ Animator:
   m_GameObject: {fileID: 5745481566398649809}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a28e2cdb30ec64e9a993cef803b7f3de, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -87,6 +90,62 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!65 &-1228868874456383111
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5745481566398649809}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &3829222592833214448
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5745481566398649809}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 12.945719, y: 3.3739033, z: 15.168694}
+  m_Center: {x: 0.17898725, y: 1.8001127, z: -8.037073}
+--- !u!114 &5294677006509328326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5745481566398649809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c6e14e7466146869287dfcec4d69af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 3
+  blastEffect: {fileID: 8399797266245723494, guid: 07b2fb52f9561411cb92dc443783c62d, type: 3}
 --- !u!1001 &6969437196445998863
 PrefabInstance:
   m_ObjectHideFlags: 0

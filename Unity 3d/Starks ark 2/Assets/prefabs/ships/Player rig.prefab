@@ -53,6 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 20
   range: 10
+  health: 10
   deathParticles: {fileID: 7360928398468489842, guid: af95704f8440c45e8a28baddd4daefb4, type: 3}
   rotSpeed: 20
   pitchLmit: 20
@@ -99,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a935f41492f2447ee8e7bfd4346a0978, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetDist: 100
+  targetDist: 150
   lasers:
   - {fileID: 7848505291506795256}
   - {fileID: 8816948742367702530}
@@ -303,6 +304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8233804471076153176}
   - component: {fileID: 2997822262521536565}
+  - component: {fileID: 3719865953195020677}
   m_Layer: 0
   m_Name: Player rig
   m_TagString: Untagged
@@ -338,7 +340,7 @@ Animator:
   m_GameObject: {fileID: 4956959773817670314}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a28e2cdb30ec64e9a993cef803b7f3de, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -350,6 +352,29 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!320 &3719865953195020677
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4956959773817670314}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: f1a64da76bc1f45f6aa29c265e7ea3f4, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 6299055439569323775, guid: f1a64da76bc1f45f6aa29c265e7ea3f4, type: 2}
+    value: {fileID: 2997822262521536565}
+  - key: {fileID: -1183156440718824902, guid: f1a64da76bc1f45f6aa29c265e7ea3f4, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8571191978053362532, guid: f1a64da76bc1f45f6aa29c265e7ea3f4, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &5907085755256363665
 GameObject:
   m_ObjectHideFlags: 0

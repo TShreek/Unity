@@ -3,12 +3,22 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    [SerializeField] private int health = 3;
     [SerializeField] private ParticleSystem blastEffect;
 
     private void OnParticleCollision(GameObject other)
     {
-        Debug.Log("COLLISION WITH " + other.gameObject.name);
+        health -= 1;
+        Debug.Log("COLLISION WITH " + other.gameObject.name + " Health " + health);
+        if (health <= 0)
+        {
+            DestroyObject();
+        }
 
+    }
+
+    void DestroyObject()
+    {
         if (blastEffect != null)
         {
             Debug.Log("Blast effect called");
