@@ -69,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (deathParticles != null)
         {
-            Debug.Log("Blast effect called");
+            //Debug.Log("Blast effect called");
 
             // Instantiate the particle system
             ParticleSystem instantiatedEffect = Instantiate(deathParticles, transform.position + new Vector3(0, 0, -1f), Quaternion.identity);

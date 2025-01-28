@@ -106,6 +106,14 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: 1.2194505
       objectReference: {fileID: 0}
+    - target: {fileID: 5294677006509328326, guid: d9156fc6d58de48669d64ef8d2e866f5, type: 3}
+      propertyPath: health
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5294677006509328326, guid: d9156fc6d58de48669d64ef8d2e866f5, type: 3}
+      propertyPath: scoreValue
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 5745481566398649809, guid: d9156fc6d58de48669d64ef8d2e866f5, type: 3}
       propertyPath: m_Name
       value: enemy 3

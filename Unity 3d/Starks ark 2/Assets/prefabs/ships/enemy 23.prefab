@@ -108,6 +108,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enemy 23
       objectReference: {fileID: 0}
+    - target: {fileID: 8494560753085488791, guid: 841c0145cc2de4bcd8d2e10f42e5b010, type: 3}
+      propertyPath: health
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8494560753085488791, guid: 841c0145cc2de4bcd8d2e10f42e5b010, type: 3}
+      propertyPath: scoreValue
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6794913994334258882, guid: 841c0145cc2de4bcd8d2e10f42e5b010, type: 3}
