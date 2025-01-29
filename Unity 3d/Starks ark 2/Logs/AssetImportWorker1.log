@@ -442,3 +442,35 @@ Received Import Request.
 Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b01f82cef789461f95cdd63e4e03924b') in 0.256748708 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 6119.702501 seconds.
+  path: Assets/Voice Lines/Crickey looks like.wav
+  artifactKey: Guid(5ba51b79b8d9f481d8ba9f547d349afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Crickey looks like.wav using Guid(5ba51b79b8d9f481d8ba9f547d349afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c0a3e501f326fba6041bec0ec1c267a') in 0.865915917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Voice Lines/Looks like the galaxy.wav
+  artifactKey: Guid(72616eb2784f64fbea9ff98a0be038b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Looks like the galaxy.wav using Guid(72616eb2784f64fbea9ff98a0be038b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28274ad5323971c783852c0231b8a822') in 0.011255584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Voice Lines/Yeehaw you did it.wav
+  artifactKey: Guid(7e62383fb69fc42759fd4423d7bca03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Yeehaw you did it.wav using Guid(7e62383fb69fc42759fd4423d7bca03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7eb39034c84d5fd28e40da6a758ab300') in 0.011662417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Voice Lines/Let's finish thisl.wav
+  artifactKey: Guid(572c77f2946994d3683dc6a182bc04ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Let's finish thisl.wav using Guid(572c77f2946994d3683dc6a182bc04ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c15d96f1345ca4f137f1b9f99576207') in 0.008619792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

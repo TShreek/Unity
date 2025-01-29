@@ -578,3 +578,43 @@ Received Import Request.
 Start importing Assets/prefabs/enemyWaves/Wave one.prefab using Guid(81963ac5b77c4465da63b9cd1e2be706) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5fe9867262b3d1e5438669e9cead0c0b') in 0.114687333 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 107
 
+========================================================================
+Received Import Request.
+  Time since last request: 1651.481503 seconds.
+  path: Assets/Voice Lines
+  artifactKey: Guid(aa6027b5165f549be976e938bbdc77d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines using Guid(aa6027b5165f549be976e938bbdc77d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2548a1f676ea44c620e5d73f1b8e956c') in 0.012366875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Voice Lines/Like shooting fish in a barrel.wav
+  artifactKey: Guid(38f7be855f078484f9d061f4987717bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Like shooting fish in a barrel.wav using Guid(38f7be855f078484f9d061f4987717bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c6a11f320d37a16e0dd0fc09297b8a6') in 0.843427875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Voice Lines/We're glad to have you here.wav
+  artifactKey: Guid(f3e4651ec02414eacbe96a72e8421b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/We're glad to have you here.wav using Guid(f3e4651ec02414eacbe96a72e8421b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f267e0b8dc130c876ee258cacf8d3961') in 0.008648042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Voice Lines/Never thought I'd see your face.wav
+  artifactKey: Guid(cf2fede7278204f1cb1206f5d55eb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/Never thought I'd see your face.wav using Guid(cf2fede7278204f1cb1206f5d55eb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a977493d7101364f80443dd29736b9a3') in 0.012292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Voice Lines/It's a trap get outta there.wav
+  artifactKey: Guid(7cf5e6225d9114138b891b222f7357ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Voice Lines/It's a trap get outta there.wav using Guid(7cf5e6225d9114138b891b222f7357ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f922a770882ce19766ce76e49242089') in 0.005622625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
