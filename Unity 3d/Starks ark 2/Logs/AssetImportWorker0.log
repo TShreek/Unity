@@ -1823,3 +1823,11 @@ Received Import Request.
 Start importing Assets/SkyBox Volume 2/Stars01/upImage.png using Guid(1eee1a8f13e601d4e967192b6915486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '870b8dde3719d056a9787c0d1f012195') in 0.010547167 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 1114.254057 seconds.
+  path: Assets/prefabs/ships/Player rig.prefab
+  artifactKey: Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/ships/Player rig.prefab using Guid(ebc898b4bd7ad440499c152fdedcba1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15ce22bf418f38c4331fe57a2a600d56') in 0.277804708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 115
+
