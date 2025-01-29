@@ -1143,3 +1143,179 @@ Received Import Request.
 Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8414f9ed8ec96be0ee17313428ac19ad') in 0.073612417 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
 
+========================================================================
+Received Import Request.
+  Time since last request: 9710.660404 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png
+  artifactKey: Guid(42f68b6cc6ff3fa47b83a2664bf08ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png using Guid(42f68b6cc6ff3fa47b83a2664bf08ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4809e74b7cdd7cabcc082eab3b55baf5') in 0.183513541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat
+  artifactKey: Guid(b8f20d5ca50d16143afc11f5e4af6fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat using Guid(b8f20d5ca50d16143afc11f5e4af6fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80b2969ad2cd83b4b48cd75055505115') in 0.637042666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.528445 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png
+  artifactKey: Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png using Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bddd0c7be7b1ddcd955cd3cf820a4d8c') in 0.05346575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/frontImage.png
+  artifactKey: Guid(05a43da33c7eccf46bfece6a05db470f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/frontImage.png using Guid(05a43da33c7eccf46bfece6a05db470f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39dc4e56646b0a1d16cb8fe76bc0b6f4') in 0.014398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/leftImage.png
+  artifactKey: Guid(b3e3bb55f10dc644daa8a354dc0030ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/leftImage.png using Guid(b3e3bb55f10dc644daa8a354dc0030ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11d014f3e1956bdf45e85d3b6d9becc9') in 0.009942833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/rightImage.png
+  artifactKey: Guid(7cc04e6ef3221c043afaef956af7b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/rightImage.png using Guid(7cc04e6ef3221c043afaef956af7b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79e3b307cce13ebf057cffa1d4541aa2') in 0.010022333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.888897 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png
+  artifactKey: Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png using Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1372cfd16e1e7c8dda30049f1a245c2') in 0.059671833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001288 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat
+  artifactKey: Guid(5b21c6a8ce40f9641bd1204324b90b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat using Guid(5b21c6a8ce40f9641bd1204324b90b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dda8fb519bbec55fa4089a23b5d8b76') in 0.052390333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png
+  artifactKey: Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png using Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c381712452d86be39b034301e628e30') in 0.013565333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.304881 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/downImage.png
+  artifactKey: Guid(53236b56bc0208c49936b442daccbb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/downImage.png using Guid(53236b56bc0208c49936b442daccbb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75ac0f543a17662d0ef0f772eb8b5137') in 0.011084416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/DSB.mat
+  artifactKey: Guid(e980bc7fbb00dc34b86b95ac842d1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/DSB.mat using Guid(e980bc7fbb00dc34b86b95ac842d1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '497e369b521d21992bb15f5f695ad02d') in 0.032280917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/rightImage.png
+  artifactKey: Guid(9dd9f87fe1ab7744fb7fb7046e3cfbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/rightImage.png using Guid(9dd9f87fe1ab7744fb7fb7046e3cfbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8548d3d9b8194bb1f6237250fd1a7b9') in 0.006441042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.181706 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png
+  artifactKey: Guid(fe24c1d3a8341df488806f47b3a72356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png using Guid(fe24c1d3a8341df488806f47b3a72356) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58be03cf5cfb1990404fda2bd22aff7b') in 0.053060458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat
+  artifactKey: Guid(19e2485c6f92d6944ad20466ac77b04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat using Guid(19e2485c6f92d6944ad20466ac77b04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8864076b812c03de0b9de4e48de35140') in 0.058313667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png
+  artifactKey: Guid(8d156f0545930a942b2ca6ed792014e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png using Guid(8d156f0545930a942b2ca6ed792014e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3cbd3352e9796203331dba1f309e5388') in 0.013122542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.043433 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/downImage.png
+  artifactKey: Guid(bf0c0b6ba4b05d843b2035b5af2141c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/downImage.png using Guid(bf0c0b6ba4b05d843b2035b5af2141c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1832f45c22675193e4a4a9b96df01de7') in 0.008535792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/DSR.mat
+  artifactKey: Guid(966766f4829d6ad419eaaf7cf0712f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/DSR.mat using Guid(966766f4829d6ad419eaaf7cf0712f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d40f2952c182caf7fbc9933678a7b63') in 0.021336334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/upImage.png
+  artifactKey: Guid(640a66a6c0d7e9a43950f36dd7dc9094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/upImage.png using Guid(640a66a6c0d7e9a43950f36dd7dc9094) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '268009912a95b78b9bd2cbb1a8ecb593') in 0.00933225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/rightImage.png
+  artifactKey: Guid(6ea2e7ab328ea214a97f55c279f4a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/rightImage.png using Guid(6ea2e7ab328ea214a97f55c279f4a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28fb284aeff51c3b78b5e5e2e0f40dc9') in 0.006718542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.860862 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/downImage.png
+  artifactKey: Guid(2386597d5e868c9458b8bf627b1bbb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/downImage.png using Guid(2386597d5e868c9458b8bf627b1bbb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7672b46c4aed01a6af86f32f96d1b6e5') in 0.037387709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/StarSkyBox.mat
+  artifactKey: Guid(b9be0c15efe8ad9489fdeead114d8ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/StarSkyBox.mat using Guid(b9be0c15efe8ad9489fdeead114d8ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1d89bea28aa866e3b6508b9ac9e79c4') in 0.036225459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/rightImage.png
+  artifactKey: Guid(ff7a4eded7a1437488c0e6771172133e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/rightImage.png using Guid(ff7a4eded7a1437488c0e6771172133e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ceaa13210805744952f8a5c7e0e6587b') in 0.017821792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
