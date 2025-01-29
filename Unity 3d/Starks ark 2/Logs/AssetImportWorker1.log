@@ -434,3 +434,11 @@ Memory consumption went from 244.5 MB to 225.6 MB.
 Total: 23.209875 ms (FindLiveObjects: 1.039375 ms CreateObjectMapping: 1.415083 ms MarkObjects: 12.895333 ms  DeleteObjects: 7.859417 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 28892.213775 seconds.
+  path: Assets/Settings/Mobile_Renderer.asset
+  artifactKey: Guid(65bc7dbf4170f435aa868c779acfb082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b01f82cef789461f95cdd63e4e03924b') in 0.256748708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
