@@ -1,4 +1,6 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,15 +10,17 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float range = 2f;
     Vector2 movement;
     Vector3 startPosition;
-    [SerializeField] int health = 10;
+    [SerializeField] int health = 5;
     [SerializeField] ParticleSystem deathParticles;
     [SerializeField] float rotSpeed = 20f;
     [SerializeField] float pitchLmit = 20f;
     [SerializeField] float delay = 5f;
-
+    [SerializeField] ParticleSystem hitEffect;
+    GameLevelManager gameLevelManager;
     void Start()
     {
         startPosition = transform.localPosition;
+        gameLevelManager = FindFirstObjectByType<GameLevelManager>();
     }
 
     void Update()
@@ -58,13 +62,30 @@ public class PlayerMovement : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         health -= 1;
+
+        if (hitEffect != null)
+        {
+            // Instantiate hit effect as a child of this GameObject
+            ParticleSystem instantiatedEffect = Instantiate(hitEffect, transform.position + new Vector3(0,4,1), Quaternion.identity, transform);
+        
+            // Play the effect
+            instantiatedEffect.Play();
+
+            // Destroy the effect after it has played
+            Destroy(instantiatedEffect.gameObject, instantiatedEffect.main.duration);
+        }
+        else
+        {
+            Debug.LogWarning("Hit effect is not assigned!");
+        }
+
         Debug.Log("Player health : " + health);
+
         if (health <= 0)
         {
             DestroyPlayer();
         }
     }
-
     void DestroyPlayer()
     {
         if (deathParticles != null)
@@ -83,5 +104,13 @@ public class PlayerMovement : MonoBehaviour
 
         // Destroy the player GameObject
         Destroy(this.gameObject);
+        StartCoroutine(reloadLevel());
+
+    }
+
+    IEnumerator reloadLevel()
+    {
+        yield return new WaitForSeconds(delay-3f);
+        gameLevelManager.restartLevel();
     }
 }
