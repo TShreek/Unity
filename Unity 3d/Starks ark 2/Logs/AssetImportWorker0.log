@@ -910,3 +910,99 @@ Memory consumption went from 248.3 MB to 228.3 MB.
 Total: 26.387667 ms (FindLiveObjects: 1.750417 ms CreateObjectMapping: 0.388292 ms MarkObjects: 14.275958 ms  DeleteObjects: 9.971625 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2632.105453 seconds.
+  path: Assets/GDTV Fleet Characters/Characters
+  artifactKey: Guid(1bad249b692ab944b86bb0134384e7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters using Guid(1bad249b692ab944b86bb0134384e7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbccfa74d84bd430e33532a275384004') in 0.027491875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.951753 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Animations and Controller
+  artifactKey: Guid(a6708a521896fad49a2aec6b80b90b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Animations and Controller using Guid(a6708a521896fad49a2aec6b80b90b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '010be0d1ad99f89125b6621fbe67b510') in 0.000676541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.032869 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters
+  artifactKey: Guid(668ed4f6aa8c15f47924664abb9fdae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters using Guid(668ed4f6aa8c15f47924664abb9fdae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebf2233f334a41dd369649e1c6e405c2') in 0.000450208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922449 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs
+  artifactKey: Guid(444e543ce60b8cf439dc4a7ca6e2811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs using Guid(444e543ce60b8cf439dc4a7ca6e2811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '246daa7346ac38dc96d0c4f55d540a84') in 0.000704 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.273852 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs/Commander_1.prefab
+  artifactKey: Guid(10c30946d92dc1c409d5437243623930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs/Commander_1.prefab using Guid(10c30946d92dc1c409d5437243623930) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82f22a0d6baaa1751da6a0d1b93fba03') in 1.503315792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 597
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.589588 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models
+  artifactKey: Guid(e07de7c9d368e39468f54421a74fe64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models using Guid(e07de7c9d368e39468f54421a74fe64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a27d2af7aab5d6afe1ce0320885cb7cc') in 0.004370084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039323 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models/Commander_1.fbx
+  artifactKey: Guid(0c1b905b6530a994ea3f2f3752a1669a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models/Commander_1.fbx using Guid(0c1b905b6530a994ea3f2f3752a1669a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58122b689f2c71c76cab6a2bc34c1d7a') in 0.377596708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 134
+
+========================================================================
+Received Import Request.
+  Time since last request: 1834.768671 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Materials & Textures
+  artifactKey: Guid(bdd5d331049610340802c70543f1e2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Materials & Textures using Guid(bdd5d331049610340802c70543f1e2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '353d7c9d2588b536854e0f30fc875cf1') in 0.010172208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.350391 seconds.
+  path: Assets/GDTV Fleet Characters/Locker
+  artifactKey: Guid(6670b275983dc124696721479acdc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Locker using Guid(6670b275983dc124696721479acdc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fd88d7b4095c5ab92970b5554d215e3') in 0.005201166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/GDTV Fleet Characters/Locker/Locker_01 1.fbx
+  artifactKey: Guid(3a04b80157e470b4ca88dffd1d5f8e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Locker/Locker_01 1.fbx using Guid(3a04b80157e470b4ca88dffd1d5f8e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4bdd2bde72103872879e6e4f68b0a58') in 0.270275667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 546.801578 seconds.
+  path: Assets/dialogueChanger.signal
+  artifactKey: Guid(709fdadc6bbf34e058001db1da56ab50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dialogueChanger.signal using Guid(709fdadc6bbf34e058001db1da56ab50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7bc237e099d185f5aee4a07452e40553') in 0.020947458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.391520 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(f1f3110abc10b4f93930f2df4a6da2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(f1f3110abc10b4f93930f2df4a6da2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95b83c726a0f9807268d8bcba32a6941') in 0.00111425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+

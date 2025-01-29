@@ -766,3 +766,43 @@ Memory consumption went from 248.1 MB to 226.1 MB.
 Total: 30.515334 ms (FindLiveObjects: 1.532458 ms CreateObjectMapping: 0.497042 ms MarkObjects: 16.384667 ms  DeleteObjects: 12.099334 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1126.254472 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs/Navigator_2.prefab
+  artifactKey: Guid(f06c7bd5ea3673944aff965b9556eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Prefabs/Navigator_2.prefab using Guid(f06c7bd5ea3673944aff965b9556eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'efb33271ae0f8506ffa7e80029a23eba') in 1.460297083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 597
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.660931 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models/Navigator_2.fbx
+  artifactKey: Guid(956f3a7e40504f0498d23b943a56d268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Fleet Command Characters/Models/Navigator_2.fbx using Guid(956f3a7e40504f0498d23b943a56d268) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab756f4ce417437526a9d7e31996584f') in 0.368633583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 134
+
+========================================================================
+Received Import Request.
+  Time since last request: 1834.812310 seconds.
+  path: Assets/GDTV Fleet Characters/Characters/Materials & Textures/colour-palette-characters 256.png
+  artifactKey: Guid(b30e964e3cb06af46bca67ad7f691959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Characters/Materials & Textures/colour-palette-characters 256.png using Guid(b30e964e3cb06af46bca67ad7f691959) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44f1f308530eedcd3352a6a3afcae61b') in 0.2210955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.304831 seconds.
+  path: Assets/GDTV Fleet Characters/Locker/Colour_Palette_SciFi.mat
+  artifactKey: Guid(a9932dd7791319143bd454f8102ebb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Locker/Colour_Palette_SciFi.mat using Guid(a9932dd7791319143bd454f8102ebb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b79895ae28e5eaa430aab903d17642e7') in 0.141808834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/GDTV Fleet Characters/Locker/Colour_Palette_SciFi.png
+  artifactKey: Guid(2c450c515ce73b94b853a09310432ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GDTV Fleet Characters/Locker/Colour_Palette_SciFi.png using Guid(2c450c515ce73b94b853a09310432ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2722e910ac7854be62fab8487f67c27') in 0.028023625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
