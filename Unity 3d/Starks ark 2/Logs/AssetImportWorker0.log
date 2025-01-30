@@ -2842,3 +2842,19 @@ Received Import Request.
 Start importing Assets/prefabs/Hit effect.prefab using Guid(de3d9aaefd875445c979989f77cce000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b63d06a88024454d1b448a737c46989e') in 0.079886292 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
 
+========================================================================
+Received Import Request.
+  Time since last request: 34421.922898 seconds.
+  path: Assets/prefabs/enemyWaves/Wave one.prefab
+  artifactKey: Guid(81963ac5b77c4465da63b9cd1e2be706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/enemyWaves/Wave one.prefab using Guid(81963ac5b77c4465da63b9cd1e2be706) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78d4c190af310ef5daf0d98dd8f2fd1a') in 0.494061584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 108
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.040955 seconds.
+  path: Assets/prefabs/enemyWaves/enemy 3 Variant.prefab
+  artifactKey: Guid(e0052075460504ebcbcb44672699e2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs/enemyWaves/enemy 3 Variant.prefab using Guid(e0052075460504ebcbcb44672699e2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ccfb42ae0689ef90ffa801f983ac1315') in 0.069194666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
