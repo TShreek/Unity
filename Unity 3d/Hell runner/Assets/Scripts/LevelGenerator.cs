@@ -54,8 +54,8 @@ public class LevelGenerator : MonoBehaviour
             Destroy(firstChunk); // Destroy the old chunk
 
             // Create a new chunk at the end of the last chunk
-           // GameObject lastChunk = chunks[chunks.Count - 1]; // Get last chunk
-            Vector3 newPos = new Vector3(0, 0, mainCamera.transform.position.z + chunkLength*chunkAmmount);
+            GameObject lastChunk = chunks[chunks.Count - 1];
+            Vector3 newPos = lastChunk.transform.position + new Vector3(0, 0, chunkLength);
             GameObject newChunk = Instantiate(chunkPrefab, newPos, Quaternion.identity);
             chunks.Add(newChunk); // Add new chunk to the list
         }
