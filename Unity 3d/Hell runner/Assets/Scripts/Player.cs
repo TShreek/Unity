@@ -3,13 +3,13 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] private float movespeed = 3f;
+    [SerializeField] private float movespeed = 5f;
     [SerializeField] private float minX = -5f; // Left boundary
     [SerializeField] private float maxX = 5f;  // Right boundary
 
     [SerializeField] private Camera mainCamera;
     [SerializeField] private float normalFOV = 60f;   // Default FOV
-    [SerializeField] private float maxFOV = 90f;      // FOV when moving fast
+    [SerializeField] private float maxFOV = 80f;      // FOV when moving fast
     [SerializeField] private float fovChangeSpeed = 5f;
 
     private Vector2 movement = Vector2.zero;
