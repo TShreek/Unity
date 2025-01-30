@@ -164,3 +164,6 @@ Cmd: compileSnippet
   error: 1 plat 14 at Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph(404): implicit truncation of vector type
  ok=1 outsize=41327
 
+Unhandled exception: Protocol error - failed to read magic number. Error code 0x80000004 (Not connected). (transferred 0/4)
+
+Quitting shader compiler process
