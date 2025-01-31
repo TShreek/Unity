@@ -7,6 +7,7 @@ public class ObstacleSpawner : MonoBehaviour
     [SerializeField] private GameObject[] obstaclesToSpawn;
     private int maxObstacles = 5;
     private List<GameObject> spawnedObstacles = new List<GameObject>();
+    float spawnWidth = 4f;
 
     void Start()
     {
@@ -29,8 +30,7 @@ public class ObstacleSpawner : MonoBehaviour
                 GameObject obstaclePrefab = obstaclesToSpawn[randomIndex];
 
                 GameObject obstacle = Instantiate(
-                    obstaclePrefab, 
-                    transform.position + new Vector3(Random.Range(-3f, 3f), 0, 40), 
+                    obstaclePrefab, new Vector3(Random.Range(-spawnWidth, spawnWidth), transform.position.y, transform.position.z + 40), 
                     Quaternion.identity
                 );
 
