@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -11,12 +12,23 @@ public class Player : MonoBehaviour
     [SerializeField] private float normalFOV = 60f;   // Default FOV
     [SerializeField] private float maxFOV = 80f;      // FOV when moving fast
     [SerializeField] private float fovChangeSpeed = 5f;
+    
+    [SerializeField] private float shakeIntensity = 0.1f; // How much the shake moves the camera
+    [SerializeField] private float shakeSpeed = 10f;
 
     private Vector2 movement = Vector2.zero;
+    bool isSprinting = false;
+    private Vector3 originalCameraPosition;
+
+    private void Start()
+    {
+        originalCameraPosition = mainCamera.transform.localPosition;
+    }
 
     public void Move(InputAction.CallbackContext context)
     {
         movement = context.ReadValue<Vector2>();
+        isSprinting = movement.y > 0; 
     }
 
     void FixedUpdate()
@@ -30,6 +42,7 @@ public class Player : MonoBehaviour
 
         // Adjust camera FOV based on forward movement
         AdjustCameraFOV();
+        ApplyCameraShake();
     }
 
     void AdjustCameraFOV()
@@ -46,5 +59,21 @@ public class Player : MonoBehaviour
         }
 
         mainCamera.fieldOfView = targetFOV;
+    }
+    void ApplyCameraShake()
+    {
+        if (isSprinting)
+        {
+            // Generate Perlin noise-based shake
+            float shakeX = (Mathf.PerlinNoise(Time.time * shakeSpeed, 0) - 0.5f) * shakeIntensity;
+            float shakeY = (Mathf.PerlinNoise(0, Time.time * shakeSpeed) - 0.5f) * shakeIntensity;
+
+            mainCamera.transform.localPosition = originalCameraPosition + new Vector3(shakeX, shakeY, 0);
+        }
+        else
+        {
+            // Smoothly reset to the original position when not sprinting
+            mainCamera.transform.localPosition = Vector3.Lerp(mainCamera.transform.localPosition, originalCameraPosition, Time.deltaTime * 5f);
+        }
     }
 }

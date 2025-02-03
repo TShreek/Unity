@@ -1442,3 +1442,1203 @@ Memory consumption went from 212.8 MB to 208.5 MB.
 Total: 13.855084 ms (FindLiveObjects: 0.530250 ms CreateObjectMapping: 0.414792 ms MarkObjects: 9.165500 ms  DeleteObjects: 3.743292 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1589.944242 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0eb37c3b4f651d9739cba3a718c88d32') in 0.624494584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.818857 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa1e883d530cca3cbf97ee7c7ae61931') in 0.045608042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570494 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c64e4fbc4629dd2fc1483480dc3989a') in 0.00931675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.578259 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f9722265440557b5e2875c97505e101') in 0.015622458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.573742 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77fa94a0987099afa857389a5d447e4f') in 0.008406209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580227 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ccf3e70c411b2d19ab0588486511cdb') in 0.011011917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.370862 seconds.
+  path: Assets/MyPrefabs/Obstacles/Fence.prefab
+  artifactKey: Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Fence.prefab using Guid(f4caf3bd7884340dda0acb57a58e06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '016c71260dc24112d9eb6ef0225b837b') in 0.009423583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.716217 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5be50a46ea657b3af8b8f300478edf1a') in 0.136443916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 425
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.986018 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4e1fee3daf35245af09adb56318296f') in 0.062677042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.170751 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf623a252dff5a56e52ecd7e7c952d8b') in 0.007393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.987106 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d932a957a10a41f857b665b4ceb9170') in 0.009540125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.431123 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a45f5681f0b5e0beee6507c69275cc8b') in 0.055588084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.002913 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d150ac37831c673aae42b558eb82495') in 0.017772417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.271141 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbee5cee00f1242fb7ed4d7d6fc431d2') in 0.042254334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.523910 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f7d13a49f4289b78ee1f6c9ea882186') in 0.007710333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.441090 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '704d28d2bc8fd056c3eb2c14ecbb06d4') in 0.007964625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.824404 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84e9f42df6f117ec71e9758041f3a1bf') in 0.049551208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.517659 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f12e34d8d68925e095f61e80e242d799') in 0.007435542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.614091 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06e7e75b4a88a42b7a5a8fed2053b640') in 0.0085345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 374.920955 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5df3356d4b30bf1b6efee9769943b040') in 0.037846625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.501932 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a5e2f131d86617f9394d3614799cc72') in 0.010478708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.620921 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b6463c61589b38ef706df0006e44d98') in 0.013324875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.805112 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6edc215f9ae5d3a3d9a5aea9ebdf1d7') in 0.012072166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.666940 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab16d52b0a454ca8b3d7ee69edcf442a') in 0.007893334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.674079 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a235d98b5033f9f9fbd4df95f6e0016') in 0.03328075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.330889 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a257146073588af789f34270c386f0b') in 0.012837291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.828988 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a5a1f5d5fa2466897cfb09ab56bff57') in 0.022880458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.670835 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db85474ceaa696c5b75686ae278fa891') in 0.111405167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.843340 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc94f4d6176f454234dfda93a4a071c8') in 0.117697292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.466826 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5792d83f4860afcc84bc0bc819e9e1a2') in 0.055354375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.432599 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6536057aa913cdd4daf6e5f2f2d5318d') in 0.09795025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.873091 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b6f1b4ddad015ef399b08f599fdbd0e') in 0.052311792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.771932 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72d1cf24539545b0e022c0a5a8e62a66') in 0.038887375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.408014 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1e19e8a2344b72333260648ba2fc877') in 0.12153225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.849792 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f088c33177f341d5fd5bb982fe086fd9') in 0.044106583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.180789 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72c0fe171467fad240c6d1fe54c176e3') in 0.041521083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.472928 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f58ba833c7c15c6c0d28421cba6794b8') in 0.111415917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.073391 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b461846876e0e8b06630057ac2c22a80') in 0.047816875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.554054 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9051c29d9bf07978c09e7dbce59b4e0') in 0.04807075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.877161 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37928dd9df8e9444fb4d8e27a7df1b8c') in 0.096220833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.870071 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fd7ca06113ad51c338855d60f9abece') in 0.0440845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.368505 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db57aff8b6a61986c78156502eff4947') in 0.041472917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.201786 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38366c4f5e88728803038c00cabcd49e') in 0.107723083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.849201 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de281228f74544830c6a4b2c9054f3b6') in 0.040148208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.221517 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40feec075cf186ebfe31b0e338850c68') in 0.03881625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.169213 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '832516a93e2d4dc000aaa7a0449afd69') in 0.039357542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.788994 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fae2659ef7ede0b77ac7deec7196073') in 0.096603125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.443347 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34bd9ac02f481ef015f4fbf0650e9243') in 0.04612975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.792981 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7dbb41b919c06601628e924896260d9b') in 0.040513125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.838903 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8db963369fe9d1d0bdcaee2c8975fb7e') in 0.098830834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.373866 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2eda41b57f740aa0ff52af947b04721') in 0.05268625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.771163 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4655bf61fa37a2994224801236786c94') in 0.137083458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.178151 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '179c5159faa92998a7860f792e800b0e') in 0.044501083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.485575 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5e70d331be9cf4003af287cea15be87') in 0.109929792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.532296 seconds.
+  path: Assets/MyPrefabs/Apple Prefab.prefab
+  artifactKey: Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Apple Prefab.prefab using Guid(b900e8b9438404fc89188833a73ff185) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cde8ba2019679773c6ca4ffa07297c73') in 0.011631958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5921 unused Assets / (4.7 MB). Loaded Objects now: 7120.
+Memory consumption went from 205.2 MB to 200.5 MB.
+Total: 33.798666 ms (FindLiveObjects: 0.834125 ms CreateObjectMapping: 0.267334 ms MarkObjects: 27.882625 ms  DeleteObjects: 4.812875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 286.275266 seconds.
+  path: Assets/Scripts/Pickup.cs
+  artifactKey: Guid(90eafb17bf0ed4792b713f424e3fc6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Pickup.cs using Guid(90eafb17bf0ed4792b713f424e3fc6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26a19e51a2360a48bc65ce389632580f') in 0.01296275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.056 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.860 seconds
+Domain Reload Profiling: 1919ms
+	BeginReloadAssembly (507ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (60ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (223ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (465ms)
+		LoadAssemblies (408ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (208ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (178ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (861ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (587ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (488ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (6.5 MB). Loaded Objects now: 7002.
+Memory consumption went from 212.3 MB to 205.8 MB.
+Total: 10.320167 ms (FindLiveObjects: 0.428375 ms CreateObjectMapping: 0.373334 ms MarkObjects: 5.945917 ms  DeleteObjects: 3.571667 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.735033 seconds.
+  path: Assets/Scripts/Pickup.cs
+  artifactKey: Guid(90eafb17bf0ed4792b713f424e3fc6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Pickup.cs using Guid(90eafb17bf0ed4792b713f424e3fc6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54b6a710cdaedb5fd42edb357fce3548') in 0.002149083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (6.2 MB). Loaded Objects now: 7002.
+Memory consumption went from 200.9 MB to 194.7 MB.
+Total: 39.522000 ms (FindLiveObjects: 0.769500 ms CreateObjectMapping: 0.251250 ms MarkObjects: 34.321000 ms  DeleteObjects: 4.179834 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.926 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.844 seconds
+Domain Reload Profiling: 1773ms
+	BeginReloadAssembly (361ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (211ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (503ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (247ms)
+			TypeCache.Refresh (36ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (200ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (845ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (578ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (484ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (7.2 MB). Loaded Objects now: 7004.
+Memory consumption went from 212.0 MB to 204.7 MB.
+Total: 8.606458 ms (FindLiveObjects: 0.478375 ms CreateObjectMapping: 0.346583 ms MarkObjects: 4.786125 ms  DeleteObjects: 2.995000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (4.9 MB). Loaded Objects now: 7004.
+Memory consumption went from 200.8 MB to 195.9 MB.
+Total: 30.968208 ms (FindLiveObjects: 2.544667 ms CreateObjectMapping: 0.301875 ms MarkObjects: 21.701333 ms  DeleteObjects: 6.420083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.865 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.991 seconds
+Domain Reload Profiling: 1860ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (126ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (519ms)
+		LoadAssemblies (322ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (259ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (992ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (705ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (592ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (6.1 MB). Loaded Objects now: 7006.
+Memory consumption went from 212.0 MB to 205.9 MB.
+Total: 11.005875 ms (FindLiveObjects: 0.585542 ms CreateObjectMapping: 0.417833 ms MarkObjects: 6.233042 ms  DeleteObjects: 3.768750 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (4.4 MB). Loaded Objects now: 7006.
+Memory consumption went from 200.8 MB to 196.4 MB.
+Total: 32.194292 ms (FindLiveObjects: 2.412292 ms CreateObjectMapping: 0.722417 ms MarkObjects: 24.910916 ms  DeleteObjects: 4.147542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.948 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.023 seconds
+Domain Reload Profiling: 1973ms
+	BeginReloadAssembly (365ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (215ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (494ms)
+		LoadAssemblies (296ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (249ms)
+			TypeCache.Refresh (39ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1024ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (713ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (581ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (7.2 MB). Loaded Objects now: 7008.
+Memory consumption went from 211.9 MB to 204.7 MB.
+Total: 9.618250 ms (FindLiveObjects: 0.644875 ms CreateObjectMapping: 0.935875 ms MarkObjects: 5.026542 ms  DeleteObjects: 3.010292 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (4.5 MB). Loaded Objects now: 7008.
+Memory consumption went from 200.9 MB to 196.4 MB.
+Total: 35.477916 ms (FindLiveObjects: 1.550833 ms CreateObjectMapping: 0.318750 ms MarkObjects: 29.738292 ms  DeleteObjects: 3.869833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.026 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.924 seconds
+Domain Reload Profiling: 1954ms
+	BeginReloadAssembly (387ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (217ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (555ms)
+		LoadAssemblies (369ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (261ms)
+			TypeCache.Refresh (42ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (201ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (925ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (639ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (530ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (6.1 MB). Loaded Objects now: 7010.
+Memory consumption went from 211.9 MB to 205.8 MB.
+Total: 9.741000 ms (FindLiveObjects: 0.418292 ms CreateObjectMapping: 0.419125 ms MarkObjects: 5.704833 ms  DeleteObjects: 3.197792 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (5.4 MB). Loaded Objects now: 7010.
+Memory consumption went from 200.8 MB to 195.5 MB.
+Total: 29.750917 ms (FindLiveObjects: 0.500208 ms CreateObjectMapping: 0.201542 ms MarkObjects: 24.540375 ms  DeleteObjects: 4.508250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.656 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.840 seconds
+Domain Reload Profiling: 1499ms
+	BeginReloadAssembly (229ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (123ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (363ms)
+		LoadAssemblies (244ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (166ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (137ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (840ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (581ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (480ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (7.3 MB). Loaded Objects now: 7012.
+Memory consumption went from 211.9 MB to 204.6 MB.
+Total: 7.845000 ms (FindLiveObjects: 0.341083 ms CreateObjectMapping: 0.157375 ms MarkObjects: 4.667875 ms  DeleteObjects: 2.678125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 467.854394 seconds.
+  path: Assets/MyPrefabs/Chunk Prefab.prefab
+  artifactKey: Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Chunk Prefab.prefab using Guid(cdf940ca4e2904525a89cfb37aff2b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd60e3b443a095d0bac6a58e3d2cac355') in 0.476053792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 427
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5921 unused Assets / (5.4 MB). Loaded Objects now: 7152.
+Memory consumption went from 209.3 MB to 203.9 MB.
+Total: 54.728667 ms (FindLiveObjects: 2.805541 ms CreateObjectMapping: 0.414792 ms MarkObjects: 47.977875 ms  DeleteObjects: 3.529000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.351 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.068 seconds
+Domain Reload Profiling: 2423ms
+	BeginReloadAssembly (659ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (53ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (458ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (608ms)
+		LoadAssemblies (362ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (323ms)
+			TypeCache.Refresh (20ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (281ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1069ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (752ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (649ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (6.5 MB). Loaded Objects now: 7034.
+Memory consumption went from 216.3 MB to 209.8 MB.
+Total: 11.089875 ms (FindLiveObjects: 0.485250 ms CreateObjectMapping: 0.250334 ms MarkObjects: 5.717167 ms  DeleteObjects: 4.636500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 335.104756 seconds.
+  path: Assets/MyPrefabs/Obstacles/Cannon.prefab
+  artifactKey: Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Cannon.prefab using Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbf9858323889c619f2edeffd6b403c1') in 0.406241792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.992020 seconds.
+  path: Assets/MyPrefabs/Obstacles/Cannon.prefab
+  artifactKey: Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Cannon.prefab using Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc9db05d6041afbea435daa26861af49') in 0.0080185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.325158 seconds.
+  path: Assets/MyPrefabs/Obstacles/Barrel.prefab
+  artifactKey: Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Barrel.prefab using Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e9b3d4232d8a56be5a2bfa6ee5aab92') in 0.052211166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.759813 seconds.
+  path: Assets/MyPrefabs/Obstacles/Barrel.prefab
+  artifactKey: Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Barrel.prefab using Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22fd452c24cee3697d2eb82da058e9a4') in 0.010018667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.763915 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5cdb6cc9d2889963590235edc6308e1') in 0.014148958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.346283 seconds.
+  path: Assets/MyPrefabs/Obstacles/Barrel.prefab
+  artifactKey: Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Barrel.prefab using Guid(3d56f895a48c74f6c9872d778a5574f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b78e27dd46007c94aceaced76b1199c') in 0.070342209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0528144ca06f25d3e3fa14d1ca5754a') in 0.01452825 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.646583 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acb3c57300f1fb634fa4c358e29bcc72') in 0.045433875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.241530 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88011a793df3c9f79521fa37c7933057') in 0.01653525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5921 unused Assets / (5.3 MB). Loaded Objects now: 7175.
+Memory consumption went from 213.3 MB to 208.0 MB.
+Total: 48.165750 ms (FindLiveObjects: 1.269542 ms CreateObjectMapping: 0.265083 ms MarkObjects: 41.026833 ms  DeleteObjects: 5.600375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.021 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.124 seconds
+Domain Reload Profiling: 2152ms
+	BeginReloadAssembly (353ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (51ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (182ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (576ms)
+		LoadAssemblies (340ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (292ms)
+			TypeCache.Refresh (34ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (228ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (1124ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (791ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (99ms)
+			ProcessInitializeOnLoadAttributes (636ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (4.3 MB). Loaded Objects now: 7057.
+Memory consumption went from 220.4 MB to 216.1 MB.
+Total: 11.185833 ms (FindLiveObjects: 0.446292 ms CreateObjectMapping: 0.327083 ms MarkObjects: 6.988125 ms  DeleteObjects: 3.423416 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (4.6 MB). Loaded Objects now: 7057.
+Memory consumption went from 209.2 MB to 204.6 MB.
+Total: 28.202625 ms (FindLiveObjects: 0.649959 ms CreateObjectMapping: 0.198459 ms MarkObjects: 21.769417 ms  DeleteObjects: 5.584125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.035 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.257 seconds
+Domain Reload Profiling: 2296ms
+	BeginReloadAssembly (402ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (267ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (540ms)
+		LoadAssemblies (308ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (292ms)
+			TypeCache.Refresh (28ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (246ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1257ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (866ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (689ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (3.2 MB). Loaded Objects now: 7059.
+Memory consumption went from 220.0 MB to 216.8 MB.
+Total: 19.862583 ms (FindLiveObjects: 0.560250 ms CreateObjectMapping: 0.492375 ms MarkObjects: 15.168709 ms  DeleteObjects: 3.640375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (6.0 MB). Loaded Objects now: 7059.
+Memory consumption went from 209.2 MB to 203.2 MB.
+Total: 31.053292 ms (FindLiveObjects: 0.480750 ms CreateObjectMapping: 0.211916 ms MarkObjects: 26.968083 ms  DeleteObjects: 3.391667 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (5.7 MB). Loaded Objects now: 7059.
+Memory consumption went from 209.2 MB to 203.5 MB.
+Total: 31.319917 ms (FindLiveObjects: 0.979875 ms CreateObjectMapping: 0.196416 ms MarkObjects: 27.319834 ms  DeleteObjects: 2.823125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (5.6 MB). Loaded Objects now: 7059.
+Memory consumption went from 209.2 MB to 203.6 MB.
+Total: 25.762750 ms (FindLiveObjects: 0.554958 ms CreateObjectMapping: 0.231834 ms MarkObjects: 21.987333 ms  DeleteObjects: 2.988416 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5920 unused Assets / (7.8 MB). Loaded Objects now: 7059.
+Memory consumption went from 209.2 MB to 201.4 MB.
+Total: 30.558875 ms (FindLiveObjects: 0.655666 ms CreateObjectMapping: 0.187292 ms MarkObjects: 24.992667 ms  DeleteObjects: 4.722250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d277000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.088 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.019 seconds
+Domain Reload Profiling: 2110ms
+	BeginReloadAssembly (483ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (308ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (506ms)
+		LoadAssemblies (367ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (221ms)
+			TypeCache.Refresh (32ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (177ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1020ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (710ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (583ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5927 unused Assets / (5.1 MB). Loaded Objects now: 7061.
+Memory consumption went from 220.0 MB to 214.9 MB.
+Total: 27.739042 ms (FindLiveObjects: 0.570375 ms CreateObjectMapping: 0.557792 ms MarkObjects: 19.897417 ms  DeleteObjects: 6.712083 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 551.617681 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb50f1ac3b5e5067330dcacdd87fd8d3') in 0.367471375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.268405 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53dd3b5b3d72c1b763ea76935ccda8a0') in 0.007950834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.239153 seconds.
+  path: Assets/MyPrefabs/Obstacles/Chair.prefab
+  artifactKey: Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Chair.prefab using Guid(36938c3baf5a14f3e9715422d7afd44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89af41bfc442ad92e2c01e3d3d1bfe18') in 0.007701709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+

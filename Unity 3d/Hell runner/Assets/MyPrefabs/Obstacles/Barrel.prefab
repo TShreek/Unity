@@ -71,6 +71,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 64849700418735988, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 64849700418735988, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 64849700418735988, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 64849700418735988, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -132,7 +144,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3332161382258616484, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
       propertyPath: m_Name
-      value: obstacle4
+      value: Barrel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

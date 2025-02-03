@@ -32,7 +32,7 @@ public class Chunk : MonoBehaviour
             for (int j = 0; j < lanes.Length; j++)
             {
                 int gen = Random.Range(0, 2);
-                Vector3 spawnPosition =  new Vector3(lanes[j],transform.position.y-1.0f,j*rowSpacing);
+                Vector3 spawnPosition =  new Vector3(lanes[j],transform.position.y-1.0f,j*laneSpacing2);
                 if (gen == 1)
                 {
                     Instantiate(coinPrefab, spawnPosition, Quaternion.identity, this.transform);
