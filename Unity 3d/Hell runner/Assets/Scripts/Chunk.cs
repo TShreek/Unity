@@ -4,28 +4,57 @@ using Random = UnityEngine.Random;
 public class Chunk : MonoBehaviour
 {
     [SerializeField] private GameObject fencePrefab;
-    private int numOfFences = 3;
-    private float toAdd = 50f / 3f; // Ensure float division
-    [SerializeField] private float[] lanes = { -1.36f, 2.21f, 5.31f };
+    [SerializeField] private GameObject applePrefab;
+    [SerializeField] private GameObject coinPrefab;
+
+    private int numRows = 3; 
+    private float rowSpacing = 50f / 3f; // Space between rows
+    [SerializeField] private float[] lanes = { -2.26f, 1.21f, 5.19f };
+    private float laneSpacing2 = 50f / 6f;
 
     void Start()
     {
-        spawnFence();
+        SpawnObjects();
     }
 
-    private void spawnFence()
+    private void SpawnObjects()
     {
-        for (int i = 0; i < numOfFences; i++)
+        for (int row = 0; row < numRows; row++)  // Loop through rows
         {
-            InstantiateFence(i * toAdd);
+            foreach (float laneX in lanes)  // Loop through lanes
+            {
+                TrySpawnItem(laneX, row * rowSpacing);
+            }
+        }
+
+        for (int i = 1; i < numRows*2; i += 2)
+        {
+            for (int j = 0; j < lanes.Length; j++)
+            {
+                int gen = Random.Range(0, 2);
+                Vector3 spawnPosition =  new Vector3(lanes[j],transform.position.y-1.0f,j*rowSpacing);
+                if (gen == 1)
+                {
+                    Instantiate(coinPrefab, spawnPosition, Quaternion.identity, this.transform);
+                }
+            }
         }
     }
 
-    private void InstantiateFence(float z)
+    private void TrySpawnItem(float x, float z)
     {
-        int FenceIndex = Random.Range(0, lanes.Length); // Get a valid lane index
-        float x = lanes[FenceIndex]; // Pick a lane position
-        Vector3 spawnPosition = new Vector3(transform.position.x + x, transform.position.y - 1.0f, transform.position.z + z);
-        Instantiate(fencePrefab, spawnPosition, Quaternion.identity,this.transform); 
+        // Higher chance of spawning nothing
+        int spawnChoice = Random.Range(0, 4);  
+
+        GameObject prefabToSpawn = null;
+        if (spawnChoice == 1) prefabToSpawn = fencePrefab;
+        else if (spawnChoice == 3) prefabToSpawn = applePrefab;
+        else if (spawnChoice == 2) prefabToSpawn = coinPrefab;
+
+        if (prefabToSpawn != null)  
+        {
+            Vector3 spawnPosition = new Vector3(x, transform.position.y - 1.0f, transform.position.z + z);
+            Instantiate(prefabToSpawn, spawnPosition, Quaternion.identity, this.transform);
+        }
     }
 }
