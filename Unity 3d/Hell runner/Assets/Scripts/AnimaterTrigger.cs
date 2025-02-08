@@ -1,34 +1,38 @@
-using System;
 using UnityEngine;
 
-public class AnimaterTrigger : MonoBehaviour
+public class AnimatorTrigger : MonoBehaviour 
 {
     [SerializeField] private Animator animator;
-    private const string hitString = "Hit";
-    const string jumpString = "Jump";
-    float waitingTime = 1f;
-    float curretnTime = 0f;
-
+    private const string hitTrigger = "Hit";
+    private const string jumpTrigger = "Jump";
+    
+    private float waitingTime = 1f;
+    private float currentTime = 0f;
+    
     private void Update()
     {
-        curretnTime += Time.deltaTime;
-        checkJump();
-    }
-
-    private void OnCollisionEnter(Collision other)
-    {
-        if (curretnTime >= waitingTime)
+        currentTime += Time.deltaTime;
+        
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            animator.SetTrigger(hitString);
-            curretnTime = 0;
+            TriggerJump();
         }
     }
-
-    void checkJump()
+    
+    private void OnCollisionEnter(Collision collision)
     {
-        if (Input.GetButtonDown("Jump"))
+        if (collision.gameObject.CompareTag("Obstacle"))
         {
-            animator.SetTrigger(jumpString);
+            if (currentTime >= waitingTime)
+            {
+                animator.SetTrigger(hitTrigger);
+                currentTime = 0f;
+            }
         }
+    }
+    
+    private void TriggerJump()
+    {
+        animator.SetTrigger(jumpTrigger);
     }
 }

@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 5927926266819868015}
   m_Layer: 0
   m_Name: Fence
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -86,8 +86,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 2.154677, y: 1.2529931, z: 0.29574078}
-  m_Center: {x: -2.0145123, y: 0.71159244, z: 0.12440786}
+  m_Size: {x: 2.154677, y: 1.0530366, z: 0.29574078}
+  m_Center: {x: -2.0145123, y: 0.61161417, z: 0.12440786}
 --- !u!54 &5927926266819868015
 Rigidbody:
   m_ObjectHideFlags: 0

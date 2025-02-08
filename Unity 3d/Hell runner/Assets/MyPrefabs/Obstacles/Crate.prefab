@@ -70,7 +70,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3332161382258616484, guid: e3abba620f58c497c8c62cc5d2346ae0, type: 3}
       propertyPath: m_Name
-      value: obstacle2
+      value: Crate
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

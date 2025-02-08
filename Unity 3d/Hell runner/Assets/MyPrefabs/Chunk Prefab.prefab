@@ -152,9 +152,10 @@ GameObject:
   m_Component:
   - component: {fileID: 347019970727489312}
   - component: {fileID: 3311143248962674232}
+  - component: {fileID: 6477488937811288021}
   m_Layer: 0
   m_Name: Chunk Prefab
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -196,6 +197,27 @@ MonoBehaviour:
   - -2.26
   - 1.21
   - 5.1
+--- !u!65 &6477488937811288021
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7987713925176937471}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 12.363415, y: 0.3519882, z: 25.605227}
+  m_Center: {x: 0.25832272, y: -0.5681155, z: 12.302613}
 --- !u!1001 &436497745127741401
 PrefabInstance:
   m_ObjectHideFlags: 0
