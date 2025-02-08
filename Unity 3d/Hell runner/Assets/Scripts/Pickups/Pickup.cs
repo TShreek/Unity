@@ -1,9 +1,10 @@
 using System;
 using UnityEngine;
 
-public class Pickup : MonoBehaviour
+public abstract class Pickup : MonoBehaviour
 {
     string playerTag = "Player";
+    [SerializeField] float rotationSpeed = 100f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void OnTriggerEnter(Collider other)
     {
@@ -13,4 +14,11 @@ public class Pickup : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    private void Update()
+    {
+        transform.Rotate(0, rotationSpeed * Time.deltaTime, 0);
+    }
+
+    protected abstract void onPickup();
 }
