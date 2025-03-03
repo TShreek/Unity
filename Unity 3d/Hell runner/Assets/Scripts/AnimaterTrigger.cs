@@ -3,7 +3,7 @@ using UnityEngine;
 public class AnimatorTrigger : MonoBehaviour 
 {
     [SerializeField] private Animator animator;
-    [SerializeField] private CapsuleCollider playerCollider;  // Reference to player's collider
+    [SerializeField] private Collider playerCollider;  // Single collider
 
     private const string hitTrigger = "Hit";
     private const string jumpTrigger = "Jump";
@@ -24,7 +24,7 @@ public class AnimatorTrigger : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Obstacle"))
+        if (!isJumping && collision.gameObject.CompareTag("Obstacle"))  
         {
             if (currentTime >= waitingTime)
             {
@@ -39,16 +39,23 @@ public class AnimatorTrigger : MonoBehaviour
     {
         isJumping = true;
         animator.SetTrigger(jumpTrigger);
-        
-        playerCollider.enabled = false; // Temporarily disable collider
 
-        // Re-enable collider after a short time (0.3s to 0.5s)
-        Invoke(nameof(ResetCollider), 0.4f);
+        // Temporarily disable collider to avoid unwanted collisions
+        playerCollider.enabled = false;
+
+        // Disable **this script** so "Hit" animation is never called mid-air
+        this.enabled = false;
+
+        // Re-enable everything after 0.3s
+        Invoke(nameof(ResetAfterJump), 0.3f);
     }
 
-    private void ResetCollider()
+    private void ResetAfterJump()
     {
-        playerCollider.enabled = true; // Re-enable collider
+        playerCollider.enabled = true;  // Enable collider again
         isJumping = false;
+
+        // Re-enable this script after landing
+        this.enabled = true;
     }
 }
