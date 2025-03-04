@@ -4,18 +4,24 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+    [Header("Movement")]
     [SerializeField] private float movespeed = 5f;
     [SerializeField] private float minX = -5f; // Left boundary
     [SerializeField] private float maxX = 5f;  // Right boundary
-
+    
+    [Header("Speed camera movement")]
     [SerializeField] private Camera mainCamera;
     [SerializeField] private float normalFOV = 60f;   // Default FOV
     [SerializeField] private float maxFOV = 80f;      // FOV when moving fast
     [SerializeField] private float fovChangeSpeed = 5f;
     
+    [Header("Shake movement")]
     [SerializeField] private float shakeIntensity = 0.1f; // How much the shake moves the camera
     [SerializeField] private float shakeSpeed = 10f;
 
+    [Header("Health")]
+    [SerializeField] private float health = 100f;
+    
     private Vector2 movement = Vector2.zero;
     bool isSprinting = false;
     private Vector3 originalCameraPosition;
@@ -75,5 +81,10 @@ public class Player : MonoBehaviour
             // Smoothly reset to the original position when not sprinting
             mainCamera.transform.localPosition = Vector3.Lerp(mainCamera.transform.localPosition, originalCameraPosition, Time.deltaTime * 5f);
         }
+    }
+
+    public void dealDamage(float damage)
+    {
+        health -= damage;
     }
 }

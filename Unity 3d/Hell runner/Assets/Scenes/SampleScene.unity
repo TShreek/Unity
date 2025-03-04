@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 66240763}
   m_Layer: 0
   m_Name: Model
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -211,6 +211,7 @@ MonoBehaviour:
   fovChangeSpeed: 5
   shakeIntensity: 0.1
   shakeSpeed: 10
+  health: 100
 --- !u!114 &119184733
 MonoBehaviour:
   m_ObjectHideFlags: 0
