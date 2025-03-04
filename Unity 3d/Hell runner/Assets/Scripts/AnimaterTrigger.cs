@@ -3,7 +3,7 @@ using UnityEngine;
 public class AnimatorTrigger : MonoBehaviour 
 {
     [SerializeField] private Animator animator;
-    [SerializeField] private Collider playerCollider;  // Single collider
+    [SerializeField] private Collider playerCollider;  
 
     private const string hitTrigger = "Hit";
     private const string jumpTrigger = "Jump";
@@ -11,6 +11,7 @@ public class AnimatorTrigger : MonoBehaviour
     private float waitingTime = 1f;  
     private float currentTime = 0f;
     private bool isJumping = false;
+    private bool canTrip = true; // Controls when tripping is allowed
 
     private void Update()
     {
@@ -24,11 +25,12 @@ public class AnimatorTrigger : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (!isJumping && collision.gameObject.CompareTag("Obstacle"))  
+        // Ensure "Hit" animation is only triggered if player is NOT mid-air
+        if (!isJumping && canTrip && collision.gameObject.CompareTag("Obstacle"))  
         {
             if (currentTime >= waitingTime)
             {
-                Debug.Log(collision.gameObject.name);
+                Debug.Log("Collided with: " + collision.gameObject.name);
                 animator.SetTrigger(hitTrigger);
                 currentTime = 0f;
             }
@@ -38,15 +40,13 @@ public class AnimatorTrigger : MonoBehaviour
     private void TriggerJump()
     {
         isJumping = true;
+        canTrip = false; // Disable tripping right after a jump
         animator.SetTrigger(jumpTrigger);
 
         // Temporarily disable collider to avoid unwanted collisions
         playerCollider.enabled = false;
 
-        // Disable **this script** so "Hit" animation is never called mid-air
-        this.enabled = false;
-
-        // Re-enable everything after 0.3s
+        // Re-enable everything after jump duration
         Invoke(nameof(ResetAfterJump), 0.3f);
     }
 
@@ -55,7 +55,12 @@ public class AnimatorTrigger : MonoBehaviour
         playerCollider.enabled = true;  // Enable collider again
         isJumping = false;
 
-        // Re-enable this script after landing
-        this.enabled = true;
+        // Delay the ability to trip again slightly after landing
+        Invoke(nameof(EnableTripping), 0.2f);
+    }
+
+    private void EnableTripping()
+    {
+        canTrip = true;
     }
 }
