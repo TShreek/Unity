@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Coin : Pickup
 {
+    private int coinsCollected = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,6 +17,11 @@ public class Coin : Pickup
 
     protected override void onPickup()
     {
-        Debug.Log("Coin PICKED U");
+        coinsCollected++;
+    }
+
+    public int getCoinsCollected()
+    {
+        return coinsCollected;
     }
 }
