@@ -4,9 +4,9 @@ using UnityEngine;
 public class CanvasMain : MonoBehaviour
 {
     private int score = 1;
+    private int coins = 0;
     [SerializeField] TextMeshProUGUI ScoreText;
     [SerializeField] TextMeshProUGUI CoinText;
-    Coin coin;
     ScoreKeeper scoreKeeper;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,11 +16,6 @@ public class CanvasMain : MonoBehaviour
         {
             Debug.LogError("ScoreKeeper not found in the scene!");
         }
-        coin  = FindFirstObjectByType<Coin>();
-        if (coin == null)
-        {
-            Debug.LogError("Coin script not found in the scene!");
-        }
     }
 
     // Update is called once per frame
@@ -28,8 +23,20 @@ public class CanvasMain : MonoBehaviour
     {
         if (scoreKeeper != null)
         {
-            score = scoreKeeper.getScore();
-            ScoreText.text = "Score : " + score.ToString();
+            UpdateScore();
+            UpdateCoins();
         }
+    }
+
+    private void UpdateCoins()
+    {
+        coins = scoreKeeper.getCoins();
+        CoinText.text = coins.ToString();
+    }
+
+    private void UpdateScore()
+    {
+        score = scoreKeeper.getScore();
+        ScoreText.text = "Score : " + score.ToString();
     }
 }

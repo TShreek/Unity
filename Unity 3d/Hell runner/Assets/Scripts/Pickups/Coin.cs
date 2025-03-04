@@ -2,11 +2,16 @@ using UnityEngine;
 
 public class Coin : Pickup
 {
-    private int coinsCollected = 0;
+   // private int coinsCollected = 0;
+    ScoreKeeper scoreKeeper;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        scoreKeeper = FindFirstObjectByType<ScoreKeeper>();
+        if (scoreKeeper == null)
+        {
+            Debug.LogError("No ScoreKeeper found");
+        }
     }
 
     // Update is called once per frame
@@ -17,11 +22,7 @@ public class Coin : Pickup
 
     protected override void onPickup()
     {
-        coinsCollected++;
+       scoreKeeper.addCoin();
     }
-
-    public int getCoinsCollected()
-    {
-        return coinsCollected;
-    }
+    
 }
