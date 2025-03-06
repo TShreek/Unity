@@ -4102,3 +4102,35 @@ Memory consumption went from 192.1 MB to 184.6 MB.
 Total: 11.289875 ms (FindLiveObjects: 0.424792 ms CreateObjectMapping: 0.364666 ms MarkObjects: 6.354542 ms  DeleteObjects: 4.144959 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5801.458464 seconds.
+  path: Assets/MyPrefabs/Obstacles/Cannon.prefab
+  artifactKey: Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Cannon.prefab using Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2d56daf6539faf839998a5425c688b5') in 0.574226209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.463665 seconds.
+  path: Assets/MyPrefabs/Obstacles/Cannon.prefab
+  artifactKey: Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Cannon.prefab using Guid(52eec566605604bebbf3e424768799fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2d56daf6539faf839998a5425c688b5') in 0.0690375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002789 seconds.
+  path: Assets/MyPrefabs/Obstacles/Crate.prefab
+  artifactKey: Guid(50f6c4e84ca444c2a9ba68289ac149c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Crate.prefab using Guid(50f6c4e84ca444c2a9ba68289ac149c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76668de5ae3e516ae8f4e82f14f07470') in 0.008722375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/MyPrefabs/Obstacles/Cube.prefab
+  artifactKey: Guid(e3abba620f58c497c8c62cc5d2346ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Cube.prefab using Guid(e3abba620f58c497c8c62cc5d2346ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70f50ad33c84e12b4ecc181247d1bc10') in 0.341401667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+

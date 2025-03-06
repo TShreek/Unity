@@ -141,6 +141,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crate_Wooden_Prop
       objectReference: {fileID: 0}
+    - target: {fileID: 5687802696289554574, guid: 1dbc3380871ee554db4b0105cc963764, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

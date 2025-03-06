@@ -152,6 +152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cannon_Weap
       objectReference: {fileID: 0}
+    - target: {fileID: 2518439120112509137, guid: 0023c8b20ba66f440b40cdfb80d40b9b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3006323887671655019, guid: 0023c8b20ba66f440b40cdfb80d40b9b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

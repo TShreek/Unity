@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3450379523476339651}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 7153264453606925767}
   - component: {fileID: 6980929840406050126}
   - component: {fileID: -658568968404254734}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Fence
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -225,6 +225,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fence_Lattice_Env_3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2765456001311149635, guid: 1656d845b8440f7499036e22fd8a8999, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8017084647198316323, guid: 1656d845b8440f7499036e22fd8a8999, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -290,6 +294,10 @@ PrefabInstance:
     - target: {fileID: 2765456001311149635, guid: 1656d845b8440f7499036e22fd8a8999, type: 3}
       propertyPath: m_Name
       value: Fence_Lattice_Env_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2765456001311149635, guid: 1656d845b8440f7499036e22fd8a8999, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8017084647198316323, guid: 1656d845b8440f7499036e22fd8a8999, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
