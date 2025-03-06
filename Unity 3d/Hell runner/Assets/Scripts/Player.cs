@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float normalFOV = 60f;   // Default FOV
     [SerializeField] private float maxFOV = 80f;      // FOV when moving fast
     [SerializeField] private float fovChangeSpeed = 5f;
+    ScoreKeeper scoreKeeper;
     
     [Header("Shake movement")]
     [SerializeField] private float shakeIntensity = 0.1f; // How much the shake moves the camera
@@ -28,6 +29,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+        scoreKeeper = FindFirstObjectByType<ScoreKeeper>();
         originalCameraPosition = mainCamera.transform.localPosition;
     }
 
@@ -58,10 +60,12 @@ public class Player : MonoBehaviour
         if (movement.y > 0) // If moving forward
         {
             targetFOV = Mathf.Lerp(mainCamera.fieldOfView, maxFOV, Time.deltaTime * fovChangeSpeed);
+            scoreKeeper.DoubleScore();
         }
         else
         {
             targetFOV = Mathf.Lerp(mainCamera.fieldOfView, normalFOV, Time.deltaTime * fovChangeSpeed);
+            scoreKeeper.resetScale();
         }
 
         mainCamera.fieldOfView = targetFOV;

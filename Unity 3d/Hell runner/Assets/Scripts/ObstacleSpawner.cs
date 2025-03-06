@@ -35,10 +35,10 @@ public class ObstacleSpawner : MonoBehaviour
                 );
 
                 spawnedObstacles.Add(obstacle);
-                StartCoroutine(DestroyObstacleAfterTime(obstacle, 10f));
+                StartCoroutine(DestroyObstacleAfterTime(obstacle, 8f));
             }
 
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(1.4f);
         }
     }
 
