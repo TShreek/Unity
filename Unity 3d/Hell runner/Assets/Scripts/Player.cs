@@ -83,9 +83,14 @@ public class Player : MonoBehaviour
         }
     }
 
-    public void dealDamage(float damage)
+    public void DealDamage(float damage)
     {
         health -= damage;
         Debug.Log(health);
+    }
+
+    public float GetHealth()
+    {
+        return health;
     }
 }

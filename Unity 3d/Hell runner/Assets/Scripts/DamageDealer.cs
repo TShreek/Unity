@@ -15,7 +15,7 @@ public class DamageDealer : MonoBehaviour
     {
         if (other.transform.CompareTag("Player"))
         {
-            player.dealDamage(damage);
+            player.DealDamage(damage);
         }
     }
 

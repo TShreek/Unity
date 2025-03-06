@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CanvasMain : MonoBehaviour
 {
@@ -8,9 +9,18 @@ public class CanvasMain : MonoBehaviour
     [SerializeField] TextMeshProUGUI ScoreText;
     [SerializeField] TextMeshProUGUI CoinText;
     ScoreKeeper scoreKeeper;
+    private Player _player;
+    
+    private float currentHealth;
+    [SerializeField] Slider healthSlider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        _player = FindFirstObjectByType<Player>();
+        if (_player == null)
+        {
+            Debug.LogError("Player object not found");
+        }
         scoreKeeper = FindFirstObjectByType<ScoreKeeper>();
         if (scoreKeeper == null)
         {
@@ -21,6 +31,11 @@ public class CanvasMain : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (_player != null)
+        {
+            currentHealth = _player.GetHealth();
+            setHealth();
+        }
         if (scoreKeeper != null)
         {
             UpdateScore();
@@ -28,6 +43,10 @@ public class CanvasMain : MonoBehaviour
         }
     }
 
+    private void setHealth()
+    {
+        healthSlider.value = currentHealth;
+    }
     private void UpdateCoins()
     {
         coins = scoreKeeper.getCoins();
