@@ -22,7 +22,7 @@ public class Player : MonoBehaviour
 
     [Header("Health")]
     [SerializeField] private float health = 100f;
-    
+ 
     private Vector2 movement = Vector2.zero;
     bool isSprinting = false;
     private Vector3 originalCameraPosition;
@@ -96,5 +96,10 @@ public class Player : MonoBehaviour
     public float GetHealth()
     {
         return health;
+    }
+
+    public void addHealth(float amount)
+    {
+        health += amount;
     }
 }

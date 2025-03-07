@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class AnimatorTrigger : MonoBehaviour 
@@ -13,10 +14,20 @@ public class AnimatorTrigger : MonoBehaviour
     private bool isJumping = false;
     private bool canTrip = true; // Controls when tripping is allowed
 
+    FenceCollisionHandler fenceCollisionHandler;
+
+    private void Start()
+    {
+        fenceCollisionHandler = FindFirstObjectByType<FenceCollisionHandler>();
+        if (fenceCollisionHandler == null)
+        {
+            Debug.LogWarning("No FenceCollisionHandler found by animator trigger");
+        }
+    }
+
     private void Update()
     {
         currentTime += Time.deltaTime;
-
         if (Input.GetKeyDown(KeyCode.Space) && !isJumping)
         {
             TriggerJump();
@@ -39,13 +50,14 @@ public class AnimatorTrigger : MonoBehaviour
 
     private void TriggerJump()
     {
+        fenceCollisionHandler.enabled = false;
+        Debug.Log("Fence collider enabled!");
         isJumping = true;
         canTrip = false; // Disable tripping right after a jump
         animator.SetTrigger(jumpTrigger);
 
         // Temporarily disable collider to avoid unwanted collisions
         playerCollider.enabled = false;
-
         // Re-enable everything after jump duration
         Invoke(nameof(ResetAfterJump), 0.3f);
     }
@@ -54,6 +66,8 @@ public class AnimatorTrigger : MonoBehaviour
     {
         playerCollider.enabled = true;  // Enable collider again
         isJumping = false;
+        fenceCollisionHandler.enabled = true;
+        Debug.Log("Reset after jump");
 
         // Delay the ability to trip again slightly after landing
         Invoke(nameof(EnableTripping), 0.2f);
