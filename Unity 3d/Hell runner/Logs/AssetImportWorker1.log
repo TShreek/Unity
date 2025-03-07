@@ -1686,3 +1686,123 @@ Memory consumption went from 189.3 MB to 182.6 MB.
 Total: 9.533375 ms (FindLiveObjects: 0.800625 ms CreateObjectMapping: 0.228875 ms MarkObjects: 4.960541 ms  DeleteObjects: 3.542542 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1072.165509 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat
+  artifactKey: Guid(967f61bb1e3e28645a39e0cb647cc79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat using Guid(967f61bb1e3e28645a39e0cb647cc79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72bbaf6d47f30e7551c7f05964b14a61') in 0.632838584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+  artifactKey: Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat using Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd54808fcf249e5f96930cea4b18dae8') in 0.018808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e617b51ce583baad9288196eb2fbc1e') in 0.006795417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db2842c26e7f27336661b4b7d39b9920') in 0.055105083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+  artifactKey: Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph using Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0413f405f3014e6e0d47534d093f2ddc') in 0.775376167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.791066 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5334a258d9d70fc582f2e1b55ea01427') in 0.082913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 700.872714 seconds.
+  path: Assets/Fonts/fonts/Diablo.otf
+  artifactKey: Guid(fbd96612abc29499bbde935b4b2f21a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/Diablo.otf using Guid(fbd96612abc29499bbde935b4b2f21a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19f5fd33210e7d67ad66b873a6906e17') in 0.084496792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.474852 seconds.
+  path: Assets/Fonts/fonts/pr_uncial_creepy/PR-Uncial Creepy-Narrow.ttf
+  artifactKey: Guid(945692f1564cb49f6872d38e5f9ee130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/pr_uncial_creepy/PR-Uncial Creepy-Narrow.ttf using Guid(945692f1564cb49f6872d38e5f9ee130) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53c8984f81436698020ac128576b2ec0') in 0.079255917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.967671 seconds.
+  path: Assets/Fonts/fonts/blood_crow/bloodcrowc.ttf
+  artifactKey: Guid(5fa2e386885b94998b32286169fb55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/blood_crow/bloodcrowc.ttf using Guid(5fa2e386885b94998b32286169fb55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d724cbd35f43ce339b9ca30945f99ba') in 0.069046167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Fonts/fonts/blood_crow/bloodcrowsci.ttf
+  artifactKey: Guid(703e9a5ce515a4cda9915936da86ab4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/blood_crow/bloodcrowsci.ttf using Guid(703e9a5ce515a4cda9915936da86ab4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c6e19e7bf5824ead67e867c23da39b0') in 0.017825458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Fonts/fonts/blood_crow/bloodcrowi.ttf
+  artifactKey: Guid(709ee702cae854826b4c1cd644639b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/blood_crow/bloodcrowi.ttf using Guid(709ee702cae854826b4c1cd644639b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e219e3753d81013f6e1edab3b1024ec3') in 0.022938833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Fonts/fonts/blood_crow/bloodcrowe.ttf
+  artifactKey: Guid(901ff544ff2414e0c8efaaf7a9f4cca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/blood_crow/bloodcrowe.ttf using Guid(901ff544ff2414e0c8efaaf7a9f4cca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '720cf0858f282543de96e817d554fed6') in 0.010155875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Fonts/fonts/blood_crow/bloodcrows.ttf
+  artifactKey: Guid(37184886ff47a4990a61edd4a48fb5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/fonts/blood_crow/bloodcrows.ttf using Guid(37184886ff47a4990a61edd4a48fb5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c63825923d1ef4b58e13ed165364b762') in 0.01067025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.294220 seconds.
+  path: Assets/Fonts/PR-Uncial Creepy-Narrow asset.asset
+  artifactKey: Guid(4a88a8821aa1542d1aab1f266eb0070f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/PR-Uncial Creepy-Narrow asset.asset using Guid(4a88a8821aa1542d1aab1f266eb0070f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4b5f876ded41aff67a55e51f5aeac28') in 0.071665792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.182848 seconds.
+  path: Assets/Fonts/Diablo Asset.asset
+  artifactKey: Guid(8a9adbc0eaba344c3a96fee34de302e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Diablo Asset.asset using Guid(8a9adbc0eaba344c3a96fee34de302e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b940c25985197e04cc73257e96f714e5') in 0.062373125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
