@@ -50,8 +50,6 @@ public class AnimatorTrigger : MonoBehaviour
 
     private void TriggerJump()
     {
-        fenceCollisionHandler.enabled = false;
-        Debug.Log("Fence collider enabled!");
         isJumping = true;
         canTrip = false; // Disable tripping right after a jump
         animator.SetTrigger(jumpTrigger);
@@ -66,9 +64,6 @@ public class AnimatorTrigger : MonoBehaviour
     {
         playerCollider.enabled = true;  // Enable collider again
         isJumping = false;
-        fenceCollisionHandler.enabled = true;
-        Debug.Log("Reset after jump");
-
         // Delay the ability to trip again slightly after landing
         Invoke(nameof(EnableTripping), 0.2f);
     }

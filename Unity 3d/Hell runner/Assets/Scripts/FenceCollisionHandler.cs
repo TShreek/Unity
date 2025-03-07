@@ -1,30 +1,22 @@
 using System;
 using UnityEngine;
-
-public class FenceCollisionHandler : MonoBehaviour
-{
-    public bool enabled = true;
-    private Player player;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public class FenceCollisionHandler : MonoBehaviour
     {
-        player = FindFirstObjectByType<Player>();
-        if (player == null)
+        private Player player;
+        [SerializeField] private int damage= 10;
+        // Start is called once before the first execution of Update after the MonoBehaviour is created
+        void Start()
         {
-            Debug.LogError("Player not found by fence collision handler");
+            player = FindFirstObjectByType<Player>();
         }
-    }
 
-    // Update is called once per frame
-    private void OnCollisionEnter(Collision other)
-    {
-        Debug.Log("enabled = " + enabled);
-        if (enabled)
+        private void OnCollisionEnter(Collision other)
         {
-            if (other.gameObject.CompareTag("Obstacle"))
+            if (other.transform.CompareTag("Fence"))
             {
-                player.DealDamage(10);
+                Debug.Log("COlisSion with" +  other.transform.name);
+                player.DealDamage(damage);
             }
         }
     }
-}
+

@@ -1467,6 +1467,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308011135953911551, guid: fa48b046d54d743749d8eb0c60f6cafe, type: 3}
+      propertyPath: m_TagString
+      value: Fence
+      objectReference: {fileID: 0}
     - target: {fileID: 1151407179923447516, guid: fa48b046d54d743749d8eb0c60f6cafe, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
