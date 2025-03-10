@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 1286650913359410608}
   - component: {fileID: 6621208285742064312}
   - component: {fileID: 3141937669897648438}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Mossy_Rock_Env_01
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

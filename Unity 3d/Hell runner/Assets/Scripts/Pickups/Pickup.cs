@@ -10,7 +10,7 @@ public abstract class Pickup : MonoBehaviour
     {
         if (other.CompareTag(playerTag))
         {
-            Debug.Log(other.name);
+            //Debug.Log(other.name);
             onPickup();  // Ensure the abstract method is called
             Destroy(gameObject);
         }

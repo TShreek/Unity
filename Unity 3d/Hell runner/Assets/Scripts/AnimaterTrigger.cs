@@ -1,4 +1,4 @@
-using System;
+using System.Collections;
 using UnityEngine;
 
 public class AnimatorTrigger : MonoBehaviour 
@@ -11,19 +11,8 @@ public class AnimatorTrigger : MonoBehaviour
 
     private float waitingTime = 1f;  
     private float currentTime = 0f;
-    private bool isJumping = false;
+    public bool isJumping = false;
     private bool canTrip = true; // Controls when tripping is allowed
-
-    FenceCollisionHandler fenceCollisionHandler;
-
-    private void Start()
-    {
-        fenceCollisionHandler = FindFirstObjectByType<FenceCollisionHandler>();
-        if (fenceCollisionHandler == null)
-        {
-            Debug.LogWarning("No FenceCollisionHandler found by animator trigger");
-        }
-    }
 
     private void Update()
     {
@@ -56,20 +45,25 @@ public class AnimatorTrigger : MonoBehaviour
 
         // Temporarily disable collider to avoid unwanted collisions
         playerCollider.enabled = false;
-        // Re-enable everything after jump duration
-        Invoke(nameof(ResetAfterJump), 0.3f);
+
+        // Start coroutine to reset jumping state
+        StartCoroutine(ResetAfterJump(0.5f));
     }
 
-    private void ResetAfterJump()
+    IEnumerator ResetAfterJump(float delay)
     {
+        yield return new WaitForSeconds(delay); // Wait before enabling collider and resetting jump state
+        
         playerCollider.enabled = true;  // Enable collider again
         isJumping = false;
-        // Delay the ability to trip again slightly after landing
-        Invoke(nameof(EnableTripping), 0.2f);
+
+        // Delay tripping reactivation slightly
+        StartCoroutine(EnableTripping(0.2f));
     }
 
-    private void EnableTripping()
+    IEnumerator EnableTripping(float delay)
     {
+        yield return new WaitForSeconds(delay); // Wait before enabling tripping again
         canTrip = true;
     }
 }
