@@ -606,3 +606,419 @@ Received Import Request.
 Start importing Assets/MyPrefabs/Obstacles/Rock.prefab using Guid(0d9e1588132764aec8196d537ae9a9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88643caa56d843cf7550f65df846a0e4') in 0.052741833 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
 
+========================================================================
+Received Import Request.
+  Time since last request: 7950.892608 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aff733843d32d6b270466c9e75c0c004') in 0.052068625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.534681 seconds.
+  path: Assets/MyPrefabs/Obstacles/Rock_Small_Env_03.prefab
+  artifactKey: Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Rock_Small_Env_03.prefab using Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ece5df3ff81132195675f62a3971f93') in 0.038634084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.268407 seconds.
+  path: Assets/MyPrefabs/Obstacles/GreyRock.prefab
+  artifactKey: Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/GreyRock.prefab using Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '020fc6ad006469ab1c112a6e60dae66c') in 0.053667291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.014563 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e379fba067e25e9cb2e24ff2a72e1907') in 0.048314583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.275294 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b613d481600f96c4aeb2ff8555d3e71e') in 0.012743292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.050786 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c5895ce472ab5e93b92cc9220594ecb') in 0.015563625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.401883 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f64bd1abf800db86f4b4ce9545ba819c') in 0.015422333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.678298 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff4f754e243a040a65ce19651c38283a') in 0.033794208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.573026 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae8595584663132903e2907b35416a81') in 0.00807575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.996548 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6299686325d3a3033ffc2e9eb5049021') in 0.010510209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.799989 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5997c11358fa1fa9413eea9910f2115a') in 0.011865083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.030725 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ef11cf684470c562d977590cd244b66') in 0.029438708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.722482 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f21dee64b9e34ce0b3963ca25f6f5e99') in 0.010098125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.588908 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24f320f3042a77beb34e20032e25bf35') in 0.007658625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.426701 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0811cbb5bbac2f8522194cd72f8951d') in 0.011286542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.572778 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1ebb07d7727ef2a4bf8ee1f00c0ccc1') in 0.045187333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.683292 seconds.
+  path: Assets/MyPrefabs/Obstacles/GreyRock.prefab
+  artifactKey: Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/GreyRock.prefab using Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b930ef5ece3810b5e5d0d98fcb276d4c') in 0.044648083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.548114 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8fa70c745434c40f36bd4d043970efe') in 0.064173542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.851412 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad8d31865405d9ac6e1163f89b01cbac') in 0.00843275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.283961 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'caf9fed8694b4bb97e7f020bf27ef156') in 0.007356209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.794467 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '163e90d96b922406418fea70852324f8') in 0.00953275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.002868 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02000649b6ebaffdc90cde919833421b') in 0.008333209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.999920 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6ac74f08b5c7200b9664031bdf2574c') in 0.010159459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.378128 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3888a7f8b3f51863763eea4b50d6998d') in 0.007138167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.078034 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef53e7c4447354a541477bb246372959') in 0.012661458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.440769 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a58fdd9226eb7eefa3a18bbf390db35') in 0.00999525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.367260 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5edc4f315b7fbfcf2e05f0eef3eddd86') in 0.016449708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.788469 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b22ed733a279f27ccd3e2e87b921798') in 0.011028833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.629775 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83af6155c4824c893541dd7aed741364') in 0.011058292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.589836 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4c019be50ec410f7a8d98bff63cb6ab') in 0.008679167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.630880 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65ea9001bf23962fda3396b49fe3d4f4') in 0.01272125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.977740 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53953217fdb8eb10eff2605bdd534692') in 0.00695675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.479868 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa45ef00a5cf5694b8205087dfaed887') in 0.013039375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.777176 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '128643feb1e13dbebd7d81649e761b52') in 0.00817775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.221903 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06f5caa743203c7d2a7b85db3fb5351d') in 0.007388875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.260986 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbb62aaff36eaf92ec2f59d242cb99ca') in 0.038953375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.131337 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a4e9878b93ba329c10f32d577b56828') in 0.00803125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.010095 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c3b034e3116ecccaa49811631edce40') in 0.008456625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.474014 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb82a4909a6b54342c6269b0c4353dd0') in 0.047009417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.315647 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b4bfd057e58540585341b854ec4d8f5') in 0.015801708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.337632 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c22a6df6f71811288e784ff414334f29') in 0.009572875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.642865 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1745204c9db6bd29b772f05785c48a2a') in 0.007805042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.027339 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9af7d32eb7ad9d1cedf5d1298b403121') in 0.010544167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.398675 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ea48f1070da22594fcc181f8d529162') in 0.010869791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.843170 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1fb5967a2856fc114df5159fc99d677f') in 0.009251042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.199635 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19044d20d59d39187cc57fcb7891631c') in 0.007905334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.807121 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b63235634efe39468f0fc7512d1a59ee') in 0.010027542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.931648 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '035ec26b0012003b4ce0cab9e063c171') in 0.010798959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.782546 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09700a22999ab0967e580ef4fe35a01d') in 0.007268958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.176901 seconds.
+  path: Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab
+  artifactKey: Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/Mossy_Rock_Env_01.prefab using Guid(9e60d67337259457698883f96d7d62f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '781e4da2f331b39cf44a7e1ce7966d1c') in 0.006861209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.446393 seconds.
+  path: Assets/MyPrefabs/Obstacles/GreyRock.prefab
+  artifactKey: Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/GreyRock.prefab using Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2d514a358aa3c552387be0208b3a782') in 0.038396917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.939495 seconds.
+  path: Assets/MyPrefabs/Obstacles/GreyRock.prefab
+  artifactKey: Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Obstacles/GreyRock.prefab using Guid(8708f77a4c50b49b4b84359877ad04b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28eff7069408ced2c28bf3e363e82823') in 0.007448291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
