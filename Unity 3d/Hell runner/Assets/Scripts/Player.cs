@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -23,12 +24,16 @@ public class Player : MonoBehaviour
     [Header("Health")]
     [SerializeField] private float health = 100f;
  
+    [Header("Game Over Text")]
+    [SerializeField] TextMeshProUGUI gameOverText;
+    
     private Vector2 movement = Vector2.zero;
     bool isSprinting = false;
     private Vector3 originalCameraPosition;
 
     private void Start()
     {
+        gameOverText.gameObject.SetActive(false);
         scoreKeeper = FindFirstObjectByType<ScoreKeeper>();
         originalCameraPosition = mainCamera.transform.localPosition;
     }
@@ -91,6 +96,11 @@ public class Player : MonoBehaviour
     {
         health -= damage;
         Debug.Log(health);
+        if (health <= 0)
+        {
+            health = 0; // Prevents negative health
+            DisplayGameOverText();
+        }
     }
 
     public float GetHealth()
@@ -101,5 +111,11 @@ public class Player : MonoBehaviour
     public void addHealth(float amount)
     {
         health += amount;
+    }
+    
+    private void DisplayGameOverText()
+    {
+        gameOverText.gameObject.SetActive(true); // Show the text
+        Debug.Log("Game Over!");
     }
 }
