@@ -9,7 +9,7 @@ public class LoadGame : MonoBehaviour
         yield return new WaitForSecondsRealtime(1f);
         SceneManager.LoadScene(sceneName);
     }
-    public void loadNextScene()
+    public void loadMainScene()
     {
         StartCoroutine(loadScene("Main Scene"));
     }
