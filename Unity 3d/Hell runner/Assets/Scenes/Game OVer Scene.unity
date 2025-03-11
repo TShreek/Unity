@@ -1060,7 +1060,7 @@ GameObject:
   - component: {fileID: 1237961588}
   - component: {fileID: 1237961587}
   m_Layer: 5
-  m_Name: Button
+  m_Name: TRYAGAIN Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1131,8 +1131,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1601275586}
-        m_TargetAssemblyTypeName: LoadGame, Assembly-CSharp
-        m_MethodName: loadMainScene
+        m_TargetAssemblyTypeName: GameOverScene, Assembly-CSharp
+        m_MethodName: tryAgain
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1500,7 +1500,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1601275584}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c5cff53a53cd427f88bd1e277b64217, type: 3}
+  m_Script: {fileID: 11500000, guid: fb0672c2391d84e40bb9dc970b348899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1832101169
@@ -1653,7 +1653,7 @@ GameObject:
   - component: {fileID: 1880001932}
   - component: {fileID: 1880001931}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: MAIN MENU BUTTON
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1724,8 +1724,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1601275586}
-        m_TargetAssemblyTypeName: LoadGame, Assembly-CSharp
-        m_MethodName: loadMainScene
+        m_TargetAssemblyTypeName: GameOverScene, Assembly-CSharp
+        m_MethodName: loadMainMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
