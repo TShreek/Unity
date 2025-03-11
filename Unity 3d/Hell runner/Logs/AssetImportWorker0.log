@@ -4098,3 +4098,43 @@ Memory consumption went from 213.9 MB to 206.9 MB.
 Total: 11.004708 ms (FindLiveObjects: 0.495750 ms CreateObjectMapping: 0.360667 ms MarkObjects: 5.925375 ms  DeleteObjects: 4.222542 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 3697.864700 seconds.
+  path: Assets/Imported assets/cave themeb4.ogg.wav
+  artifactKey: Guid(8a89250b737e34d2aa3b8ffa8ad76064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/cave themeb4.ogg.wav using Guid(8a89250b737e34d2aa3b8ffa8ad76064) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd4c66f4f260e26e9d891c59be18cf72') in 0.360396958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.499784 seconds.
+  path: Assets/Imported assets/Music
+  artifactKey: Guid(8459548181bac4f66831c79ff6d09248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/Music using Guid(8459548181bac4f66831c79ff6d09248) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fca5dc7f43e6757593b78a0eb6a01fba') in 0.0006595 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.877426 seconds.
+  path: Assets/Imported assets/Music/scarysound1.wav
+  artifactKey: Guid(e8c79f9700d8a49889b5669316178466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/Music/scarysound1.wav using Guid(e8c79f9700d8a49889b5669316178466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cc441c12609add25a9b453fb828e874') in 0.037175959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 651.109990 seconds.
+  path: Assets/Imported assets/Music/chasingSound.mp3
+  artifactKey: Guid(7db0a78a14167472aa80420adc2159dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/Music/chasingSound.mp3 using Guid(7db0a78a14167472aa80420adc2159dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06c8f57d88499020f31e9c3a6a867e7c') in 0.078730833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.353062 seconds.
+  path: Assets/Physics Materials/Obstacle.physicMaterial
+  artifactKey: Guid(e79d818cb94624fc9a725ee43dc94cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics Materials/Obstacle.physicMaterial using Guid(e79d818cb94624fc9a725ee43dc94cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81223020aca0d81b81a2e443cc3352b4') in 0.00980125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
