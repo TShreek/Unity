@@ -100,6 +100,7 @@ public class Player : MonoBehaviour
         {
             health = 0; // Prevents negative health
             DisplayGameOverText();
+            scoreKeeper.endGame();
         }
     }
 
