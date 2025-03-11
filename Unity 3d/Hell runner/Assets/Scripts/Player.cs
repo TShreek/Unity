@@ -1,7 +1,10 @@
 using System;
+using System.Collections;
 using TMPro;
+using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -101,9 +104,15 @@ public class Player : MonoBehaviour
             health = 0; // Prevents negative health
             DisplayGameOverText();
             scoreKeeper.endGame();
+            StartCoroutine(loadGameOverScene());
         }
     }
 
+    IEnumerator loadGameOverScene()
+    {
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("Game Over Scene");
+    }
     public float GetHealth()
     {
         return health;
