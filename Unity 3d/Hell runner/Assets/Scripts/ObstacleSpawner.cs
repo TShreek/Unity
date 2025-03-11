@@ -5,51 +5,77 @@ using UnityEngine;
 public class ObstacleSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject[] obstaclesToSpawn;
-    private int maxObstacles = 5;
+    private int maxObstacles = 7;
     private List<GameObject> spawnedObstacles = new List<GameObject>();
+
     float spawnWidth = 4f;
+    float spawnInterval = 1f;  // Start with a 1-second interval
+    float minSpawnInterval = 0.3f; // Minimum spawn delay
+    float difficultyIncreaseRate = 0.1f; // How much spawn time decreases over time
 
     void Start()
     {
         StartCoroutine(SpawnObstacles());
+        StartCoroutine(IncreaseDifficultyOverTime());
     }
 
     IEnumerator SpawnObstacles()
     {
-        while (true) // Keeps the coroutine running
+        while (true)
         {
             if (obstaclesToSpawn == null || obstaclesToSpawn.Length == 0)
             {
                 Debug.LogError("No obstacles assigned in ObstacleSpawner!");
-                yield break; // Stop the coroutine if there's nothing to spawn
+                yield break;
             }
 
             if (spawnedObstacles.Count < maxObstacles)
             {
-                int randomIndex = Random.Range(0, obstaclesToSpawn.Length); // Get a random index safely
-                GameObject obstaclePrefab = obstaclesToSpawn[randomIndex];
-
-                GameObject obstacle = Instantiate(
-                    obstaclePrefab, new Vector3(Random.Range(-spawnWidth, spawnWidth), transform.position.y, transform.position.z + 40), 
-                    Quaternion.identity
-                );
-
-                spawnedObstacles.Add(obstacle);
-                StartCoroutine(DestroyObstacleAfterTime(obstacle, 8f));
+                SpawnObstacle();
             }
 
-            yield return new WaitForSeconds(1f);
+            // Wait for the current spawn interval before spawning the next one
+            yield return new WaitForSeconds(spawnInterval);
         }
+    }
+
+    void SpawnObstacle()
+    {
+        int randomIndex = Random.Range(0, obstaclesToSpawn.Length);
+        GameObject obstaclePrefab = obstaclesToSpawn[randomIndex];
+
+        Vector3 spawnPosition = new Vector3(
+            Random.Range(-spawnWidth, spawnWidth),
+            transform.position.y,
+            transform.position.z + 40
+        );
+
+        GameObject obstacle = Instantiate(obstaclePrefab, spawnPosition, Quaternion.identity);
+        spawnedObstacles.Add(obstacle);
+        StartCoroutine(DestroyObstacleAfterTime(obstacle, 8f));
     }
 
     IEnumerator DestroyObstacleAfterTime(GameObject obstacle, float delay)
     {
         yield return new WaitForSeconds(delay);
-
         if (obstacle != null) 
         {
-            spawnedObstacles.Remove(obstacle); // Remove from list
+            spawnedObstacles.Remove(obstacle);
             Destroy(obstacle);
+        }
+    }
+
+    IEnumerator IncreaseDifficultyOverTime()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(10f); // Every 10 seconds, make it harder
+            spawnInterval = Mathf.Max(spawnInterval - difficultyIncreaseRate, minSpawnInterval);
+            Debug.Log("Increased difficulty! New spawn interval: " + spawnInterval);
+            if (spawnInterval <= 0.5f)
+            {
+                difficultyIncreaseRate = 0.05f;
+            }
         }
     }
 }
