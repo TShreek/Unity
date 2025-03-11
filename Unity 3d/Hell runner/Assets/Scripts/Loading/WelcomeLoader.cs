@@ -7,7 +7,7 @@ public class WelcomeLoader : MonoBehaviour
 {
     IEnumerator loadScene()
     {
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
         SceneManager.LoadScene("Main Menu");
     }
 
