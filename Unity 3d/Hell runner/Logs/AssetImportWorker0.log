@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65345
+52034
 -job-worker-count
 3
 -background-job-worker-count
@@ -68,7 +68,7 @@ Successfully changed project path to: /Users/tshreek/UnityGithubLink/Github/Unit
     "memorysetup-temp-allocator-size-gfx=262144"
 Player connection [8446576704]  Target information:
 
-Player connection [8446576704]  * "[IP] 192.168.68.104 [Port] 0 [Flags] 2 [Guid] 4036044016 [EditorId] 4036044016 [Version] 1048832 [Id] OSXEditor(0,Shreekrishnas-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+Player connection [8446576704]  * "[IP] 192.168.68.104 [Port] 0 [Flags] 2 [Guid] 4887852 [EditorId] 4887852 [Version] 1048832 [Id] OSXEditor(0,Shreekrishnas-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
 
 Player connection [8446576704] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [8446576704] Host joined alternative multi-casting on [225.0.0.222:34997]...
@@ -82,7 +82,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.85 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 5.28 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -97,49 +97,49 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56326
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/6000.0.25f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/6000.0.25f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.004491 seconds.
-- Loaded All Assemblies, in  0.356 seconds
+Registered in 0.004217 seconds.
+- Loaded All Assemblies, in  0.354 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 242 ms
+Android Extension - Scanning For ADB Devices 96 ms
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.745 seconds
-Domain Reload Profiling: 1101ms
-	BeginReloadAssembly (107ms)
+- Finished resetting the current domain, in  0.591 seconds
+Domain Reload Profiling: 946ms
+	BeginReloadAssembly (118ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (36ms)
+	RebuildCommonClasses (34ms)
 	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (43ms)
-	LoadAllAssembliesAndSetupDomain (160ms)
-		LoadAssemblies (108ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (146ms)
+		LoadAssemblies (120ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (154ms)
-			TypeCache.Refresh (152ms)
-				TypeCache.ScanAssembly (137ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (140ms)
+				TypeCache.ScanAssembly (128ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (745ms)
+	FinalizeReload (592ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (702ms)
+		SetupLoadedEditorAssemblies (539ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (361ms)
+			InitializePlatformSupportModulesInManaged (209ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (7ms)
-			ProcessInitializeOnLoadAttributes (200ms)
-			ProcessInitializeOnLoadMethodAttributes (104ms)
-			AfterProcessingInitializeOnLoad (27ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (205ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -150,11 +150,11 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.723 seconds
+- Loaded All Assemblies, in  2.095 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.89 ms, found 3 plugins.
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
@@ -164,69 +164,93 @@ Package Manager log level set to [2]
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.148 seconds
-Domain Reload Profiling: 2867ms
-	BeginReloadAssembly (1040ms)
+- Finished resetting the current domain, in  1.029 seconds
+Domain Reload Profiling: 3118ms
+	BeginReloadAssembly (1450ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (40ms)
-	RebuildCommonClasses (31ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (28ms)
-	LoadAllAssembliesAndSetupDomain (609ms)
-		LoadAssemblies (342ms)
+		CreateAndSetChildDomain (133ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (561ms)
+		LoadAssemblies (364ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (309ms)
-			TypeCache.Refresh (219ms)
-				TypeCache.ScanAssembly (194ms)
-			BuildScriptInfoCaches (78ms)
+		AnalyzeDomain (282ms)
+			TypeCache.Refresh (198ms)
+				TypeCache.ScanAssembly (172ms)
+			BuildScriptInfoCaches (71ms)
 			ResolveRequiredComponents (10ms)
-	FinalizeReload (1149ms)
+	FinalizeReload (1029ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (871ms)
+		SetupLoadedEditorAssemblies (767ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
+			InitializePlatformSupportModulesInManaged (8ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (66ms)
-			ProcessInitializeOnLoadAttributes (683ms)
-			ProcessInitializeOnLoadMethodAttributes (106ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (601ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
 			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (2ms)
 Launching external process: /Applications/Unity/Hub/Editor/6000.0.25f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.14 seconds
-Refreshing native plugins compatible for Editor in 2.68 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 234 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7035 unused Assets / (4.2 MB). Loaded Objects now: 7868.
-Memory consumption went from 197.1 MB to 192.9 MB.
-Total: 51.053000 ms (FindLiveObjects: 8.810667 ms CreateObjectMapping: 0.874750 ms MarkObjects: 36.060041 ms  DeleteObjects: 5.304041 ms)
+Unloading 7035 unused Assets / (5.1 MB). Loaded Objects now: 7868.
+Memory consumption went from 197.2 MB to 192.1 MB.
+Total: 9.743209 ms (FindLiveObjects: 0.580667 ms CreateObjectMapping: 0.314708 ms MarkObjects: 6.726167 ms  DeleteObjects: 2.120875 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 665915.270427 seconds.
-  path: Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader
-  artifactKey: Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader using Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '249cb551cf4e23a15c00e792da0a8494') in 0.05552925 seconds
+  Time since last request: 703291.439232 seconds.
+  path: Assets/Scenes/Game Over Scene.unity
+  artifactKey: Guid(9b787698d13ed4d7ca9b89d23b3406bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game Over Scene.unity using Guid(9b787698d13ed4d7ca9b89d23b3406bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72dcdc9511d6e4711e9aa7f5df968cd9') in 0.010520042 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
-  Time since last request: 62.219751 seconds.
-  path: Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader
-  artifactKey: Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader using Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '358584335823ba3946ac35201ddf8af0') in 0.011713875 seconds
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+  Time since last request: 6.339177 seconds.
+  path: Assets/Imported assets/char outline.jpeg
+  artifactKey: Guid(31b6a1e8bd6ca45eba513b658e34e265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/char outline.jpeg using Guid(31b6a1e8bd6ca45eba513b658e34e265) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3542e68847ca72dbc8bde84457149d5b') in 0.185564583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 70.444370 seconds.
-  path: Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader
-  artifactKey: Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader using Guid(2ce4c95e7106985488f7f5bb730b3ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e142a504ec2bb732d121431dbd115524') in 0.005756167 seconds
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+  Time since last request: 0.000127 seconds.
+  path: Assets/Imported assets/skull.png
+  artifactKey: Guid(36a636f04958a43adb16235a99cb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/skull.png using Guid(36a636f04958a43adb16235a99cb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc5bf742968e3a6d4ca40506f9c32feb') in 0.015204125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Imported assets/Jogging Stumble.fbx
+  artifactKey: Guid(f052ba434356b40d093cbcaae626ba07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/Jogging Stumble.fbx using Guid(f052ba434356b40d093cbcaae626ba07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d42ebdb76b055e8194ca3989ff2824e') in 1.100306541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 147
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Imported assets/lava 1-photoaidcom-cropped.jpg
+  artifactKey: Guid(210c165fb4a75477aa72902193568d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/lava 1-photoaidcom-cropped.jpg using Guid(210c165fb4a75477aa72902193568d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '085fc0337322844b48819db293641c9f') in 0.008775084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.278564 seconds.
+  path: Assets/Imported assets/Music/cave themeb4.ogg.wav
+  artifactKey: Guid(8a89250b737e34d2aa3b8ffa8ad76064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported assets/Music/cave themeb4.ogg.wav using Guid(8a89250b737e34d2aa3b8ffa8ad76064) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3d3c7567bb4dd28da33c4af486fb8a0') in 0.047326958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
