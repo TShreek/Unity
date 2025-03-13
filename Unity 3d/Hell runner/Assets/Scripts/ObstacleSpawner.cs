@@ -9,8 +9,8 @@ public class ObstacleSpawner : MonoBehaviour
     private List<GameObject> spawnedObstacles = new List<GameObject>();
 
     float spawnWidth = 4f;
-    float spawnInterval = 1f;  // Start with a 1-second interval
-    float minSpawnInterval = 0.3f; // Minimum spawn delay
+    float spawnInterval = 0.7f;  // Start
+    float minSpawnInterval = 0.2f; // Minimum spawn delay
     float difficultyIncreaseRate = 0.1f; // How much spawn time decreases over time
 
     void Start()

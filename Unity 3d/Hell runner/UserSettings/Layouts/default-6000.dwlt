@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 787
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -963,9 +963,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 970.1907, y: 602.52545, z: 3.448564}
+    m_Target: {x: 1.3992298, y: 10.824502, z: 11.479754}
     speed: 2
-    m_Value: {x: 970.1907, y: 602.52545, z: 3.448564}
+    m_Value: {x: 1.3992298, y: 10.824502, z: 11.479754}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1015,9 +1015,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 885.3582
+    m_Target: 82.23819
     speed: 2
-    m_Value: 885.3582
+    m_Value: 82.23819
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1089,7 +1089,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d4f6fffff0faffff
+      m_ExpandedIDs: 0ef2fffff8f2ffff2af8fffff0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1183,7 +1183,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1277,9 +1277,9 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 120}
-    m_SelectedIDs: 8ec10000
-    m_LastClickedID: 49550
+    scrollPos: {x: 0, y: 241.99951}
+    m_SelectedIDs: a6ba0000
+    m_LastClickedID: 47782
     m_ExpandedIDs: 00000000beb90000c0b90000c2b90000c4b90000c6b90000c8b90000cab90000ccb90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
