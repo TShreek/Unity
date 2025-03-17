@@ -91,4 +91,4 @@ public class Chunk : MonoBehaviour
             Instantiate(prefabToSpawn, spawnPosition, Quaternion.identity, this.transform);
         }
     }
-}s
+}
