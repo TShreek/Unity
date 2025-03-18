@@ -14,3 +14,6 @@ Cmd: compileSnippet
   error: 1 plat 9 at URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader(494): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
  ok=1 outsize=10005
 
+Cmd: shutdown
+
+Quitting shader compiler process
