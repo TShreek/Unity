@@ -214,3 +214,19 @@ Received Import Request.
 Start importing Assets/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Heat_Haze_01.shader using Guid(681f0afa76f7b9e4d93e6fd3c2ead6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f2b34d6a65bd7e48d78aea604b755d6d') in 0.027548125 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 258.255014 seconds.
+  path: Assets/Free Fire VFX URP/Textures/T_VFX_Noise_08.tga
+  artifactKey: Guid(4c7b88daf72dcdb4d85c35517cee3224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Fire VFX URP/Textures/T_VFX_Noise_08.tga using Guid(4c7b88daf72dcdb4d85c35517cee3224) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c60c2f8a18ac746902622f79c92c00fb') in 0.312470667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Free Fire VFX URP/Textures/T_VFX_Gradient_Up_Down_01.tga
+  artifactKey: Guid(e4032b025693bfb47ae0e50da323b3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Fire VFX URP/Textures/T_VFX_Gradient_Up_Down_01.tga using Guid(e4032b025693bfb47ae0e50da323b3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4460ae11d75aa818ba123bfaac1f2c1') in 0.013706542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

@@ -230,3 +230,27 @@ Received Import Request.
 Start importing Assets/MyPrefabs/Fire Particles.prefab using Guid(6b0b855eb65074b78bc8246b64af4eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc68836794e43760aff9bfab3fa067ac') in 0.01686775 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
 
+========================================================================
+Received Import Request.
+  Time since last request: 208.842768 seconds.
+  path: Assets/Free Fire VFX URP/Textures/T_VFX_Noise_03.tga
+  artifactKey: Guid(f1b6b10620016be45b38159cac55e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Fire VFX URP/Textures/T_VFX_Noise_03.tga using Guid(f1b6b10620016be45b38159cac55e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee70a6694221570769c7643e38180b01') in 0.136154292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001404 seconds.
+  path: Assets/Free Fire VFX URP/Textures/T_VFX_Directional_Dust_01.tga
+  artifactKey: Guid(52a074a757c62bc448f9ef266ee7db81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Fire VFX URP/Textures/T_VFX_Directional_Dust_01.tga using Guid(52a074a757c62bc448f9ef266ee7db81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a20aef6d9c26530f3dfe8774b0f0ddb') in 0.013158666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Free Fire VFX URP/Textures/T_VFX_Noise_01.tga
+  artifactKey: Guid(78f9606de07f24a4f9ff540cc0087f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Fire VFX URP/Textures/T_VFX_Noise_01.tga using Guid(78f9606de07f24a4f9ff540cc0087f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66239394a361f69dd5d291396267176c') in 0.012646334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
