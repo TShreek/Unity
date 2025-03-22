@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 900
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 49
+  controlID: 24
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 50
+  controlID: 25
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 88b50000
       m_LastClickedID: 0
-      m_ExpandedIDs: 8af3fffff0faffff
+      m_ExpandedIDs: f0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 11.957166
     speed: 2
-    m_Value: 11.948205
+    m_Value: 11.957166
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1277,10 +1277,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 434.49976}
-    m_SelectedIDs: b4c10000
-    m_LastClickedID: 49588
-    m_ExpandedIDs: 00000000d6c00000d8c00000dac00000dcc00000dec00000e0c00000e2c00000e4c00000a4c1000000ca9a3b
+    scrollPos: {x: 0, y: 255}
+    m_SelectedIDs: a6ba0000
+    m_LastClickedID: 47782
+    m_ExpandedIDs: 00000000ccb90000ceb90000d0b90000d2b90000d4b90000d6b90000d8b90000dab9000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1309,7 +1309,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6c00000d8c00000dac00000dcc00000dec00000e0c00000e2c00000e4c00000
+    m_ExpandedIDs: 00000000ccb90000ceb90000d0b90000d2b90000d4b90000d6b90000d8b90000dab90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1337,7 +1337,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000b2610000b66100001c620000f86100008c62000022630000685d00001e00000080020000eac000000000000054230100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
